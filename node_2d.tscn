@@ -1524,3 +1524,10 @@ position = Vector2(594, 281)
 scale = Vector2(4, 4)
 sprite_frames = SubResource("SpriteFrames_epypp")
 animation = &"idle_right"
+
+[node name="Camera2D" type="Camera2D" parent="Player" unique_id=86871818]
+position = Vector2(594, 284)
+position_smoothing_enabled = true
+drag_horizontal_enabled = true
+drag_vertical_enabled = true
+drag_vertical_offset = -0.67
