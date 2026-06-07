@@ -3350,7 +3350,7 @@ script = ExtResource("1_0e48y")
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="Future World/Player" unique_id=922208031]
 texture_filter = 1
 position = Vector2(594, 281)
-scale = Vector2(4, 4)
+scale = Vector2(2, 2)
 sprite_frames = SubResource("SpriteFrames_epypp")
 animation = &"idle_right"
 
