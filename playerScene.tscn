@@ -427,6 +427,6 @@ script = ExtResource("1_4d8xo")
 position = Vector2(594, 281)
 scale = Vector2(4, 4)
 sprite_frames = SubResource("SpriteFrames_m0ms6")
-animation = &"attack_up"
+animation = &"run_down"
 
 [connection signal="animation_finished" from="AnimatedSprite2D" to="." method="_on_animated_sprite_2d_animation_finished"]
