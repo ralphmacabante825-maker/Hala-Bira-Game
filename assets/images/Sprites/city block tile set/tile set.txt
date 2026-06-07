@@ -1,0 +1,18 @@
+ --- city block tile set ---
+
+Thank you for buying the City Block Tile Set.
+I've spent a long time working on this so I hope you enjoy it.
+
+--- tile set instructions ---
+
+To use the TileSet in your game, first check if your game engine supports TileMaps.
+If so, decide if you want to import the TileSet in separate parts or import it in one image.
+Next, create three different TileMaps and rename them to Decorations, Buildings and Roads.
+
+Add the City Block Full image to your TileMaps or, if you chose to use multiple images, add each image to the correct TileMaps. 
+Make sure to put the TileMaps in the layer order of Decorations at the top, Buildings in the middle, and Roads at the bottom. 
+if you're not sure how TileMaps work, i'd recommend using a tutorial or checking the documentation. 
+Now you've set up the TileMaps you can make whatever you want with it. 
+You may also want to set up collision for the TileMaps too. 
+
+if you have any problems you can contact me at thegamedevant@gmail.com.
