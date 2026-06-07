@@ -4,11 +4,17 @@ const speed = 300.0
 
 var last_direction: Vector2 = Vector2.RIGHT
 var is_attacking: bool = false
+var can_move = true
 
 @onready var animated_sprite_2d: AnimatedSprite2D = $AnimatedSprite2D
 
 func _physics_process(_delta: float) -> void:
 
+	if !can_move:
+		velocity = Vector2.ZERO
+		move_and_slide()
+		return
+	
 	if Input.is_action_just_pressed("attack") and not is_attacking:
 		attack()
 
