@@ -1,4 +1,4 @@
-[gd_scene format=4 uid="uid://2d85us5koq3v"]
+[gd_scene format=4 uid="uid://chkkyoohbbjxl"]
 
 [ext_resource type="Texture2D" uid="uid://ckrtduy66fsu2" path="res://assets/images/Sprites/3.png" id="1_0h7mo"]
 [ext_resource type="Texture2D" uid="uid://dqa8af3v3msj3" path="res://assets/images/Sprites/city block tile set/cityBlockTileSetRoads.png" id="1_epypp"]
@@ -28847,6 +28847,9 @@ sources/2 = SubResource("TileSetAtlasSource_k73cj")
 pattern_0 = SubResource("TileMapPattern_0hol4")
 pattern_1 = SubResource("TileMapPattern_q6r6c")
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_x0ka3"]
+size = Vector2(15, 121)
+
 [node name="Main" type="Node2D" unique_id=573925446]
 show_behind_parent = true
 
@@ -28881,5 +28884,9 @@ tile_set = SubResource("TileSet_d21ai")
 [node name="collisions" type="StaticBody2D" parent="Future World" unique_id=663537528]
 
 [node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="Future World/collisions" unique_id=1129742528]
-position = Vector2(1, 0)
+position = Vector2(3, -2)
 polygon = PackedVector2Array(188, 236, 293, 241, 480, 244, 483, 267, 573, 272, 575, 251, 625, 254, 625, 270, 717, 270, 720, 251, 1147, 255, 1143, 508, 0, 514, 0, 240, 16, 242, 16, 258, 143, 258, 182, 221, 245, -58, -202, -184, -223, 663, 161, 852, 672, 858, 1217, 757, 1392, 408, 1338, -218, 1056, -184, 511, -218)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Future World/collisions" unique_id=408108237]
+position = Vector2(547.5, 245.5)
+shape = SubResource("RectangleShape2D_x0ka3")
