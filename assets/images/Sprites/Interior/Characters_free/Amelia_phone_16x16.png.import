@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnuxu7hbgs65f"
-path="res://.godot/imported/Amelia_phone_16x16.png-33d2b21a32bc95fff13d45018e924329.ctex"
+path="res://.godot/imported/Amelia_phone_16x16.png-0745172b5dce049a2077c572781558ff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/Sprites/Interior/Characters_free/Amelia_phone_16x16.png"
-dest_files=["res://.godot/imported/Amelia_phone_16x16.png-33d2b21a32bc95fff13d45018e924329.ctex"]
+source_file="res://assets/images/sprites/Interior/Characters_free/Amelia_phone_16x16.png"
+dest_files=["res://.godot/imported/Amelia_phone_16x16.png-0745172b5dce049a2077c572781558ff.ctex"]
 
 [params]
 

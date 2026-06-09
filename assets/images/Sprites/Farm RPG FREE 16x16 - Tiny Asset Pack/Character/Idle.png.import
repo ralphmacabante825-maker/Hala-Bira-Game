@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dyy3vno5f7xla"
-path="res://.godot/imported/Idle.png-540df49b71f91cdf14f1f64626c185d9.ctex"
+path="res://.godot/imported/Idle.png-413b3fce2985b0bbe06cb90726fbd256.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/Sprites/Farm RPG FREE 16x16 - Tiny Asset Pack/Character/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-540df49b71f91cdf14f1f64626c185d9.ctex"]
+source_file="res://assets/images/sprites/Farm RPG FREE 16x16 - Tiny Asset Pack/Character/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-413b3fce2985b0bbe06cb90726fbd256.ctex"]
 
 [params]
 
