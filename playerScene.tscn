@@ -351,27 +351,27 @@ animations = [{
 "speed": 5.0
 }, {
 "frames": [{
-"duration": 1.0,
+"duration": 2.0,
 "texture": SubResource("AtlasTexture_2ndnc")
 }, {
-"duration": 1.0,
+"duration": 2.0,
 "texture": SubResource("AtlasTexture_7n1ha")
 }, {
-"duration": 1.0,
+"duration": 2.0,
 "texture": SubResource("AtlasTexture_nyijd")
 }, {
-"duration": 1.0,
+"duration": 2.0,
 "texture": SubResource("AtlasTexture_ukktc")
 }, {
-"duration": 1.0,
+"duration": 2.0,
 "texture": SubResource("AtlasTexture_nlfkb")
 }, {
-"duration": 1.0,
+"duration": 2.0,
 "texture": SubResource("AtlasTexture_p3hi4")
 }],
 "loop": true,
 "name": &"run_down",
-"speed": 6.0
+"speed": 5.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -431,6 +431,7 @@ position = Vector2(609, 298)
 scale = Vector2(2, 2)
 sprite_frames = SubResource("SpriteFrames_m0ms6")
 animation = &"run_down"
+frame_progress = 0.7660603
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1637907624]
 position = Vector2(607, 308)
