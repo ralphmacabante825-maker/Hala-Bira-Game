@@ -8,9 +8,10 @@ func _ready():
 
 func start_cutscene():
 
+	player.set_physics_process(false)
 	# Hide player at the beginning
 	player.visible = false
-
+	
 	# Move car
 	var car_tween = create_tween()
 
@@ -33,8 +34,13 @@ func start_cutscene():
 
 	player.visible = true
 	
+	# Face right and idle
+	player.animated_sprite_2d.play("idle_right")
 	# Pause for 1 second
 	await get_tree().create_timer(3.0).timeout
+	
+	# Start running animation
+	player.animated_sprite_2d.play("run_right")
 
 	# Walk player to museum
 	var player_tween = create_tween()
@@ -47,5 +53,7 @@ func start_cutscene():
 )
 
 	await player_tween.finished
+	player.animated_sprite_2d.play("idle_up")
 
+	player.set_physics_process(true)
 	print("Cutscene finished")
