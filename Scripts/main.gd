@@ -24,7 +24,7 @@ func start_cutscene():
 	await car_tween.finished
 	
 	# Wait 1 second after car stops
-	await get_tree().create_timer(2.0).timeout
+	await get_tree().create_timer(1.0).timeout
 	
 	# Spawn player beside car
 	player.position = Vector2(
