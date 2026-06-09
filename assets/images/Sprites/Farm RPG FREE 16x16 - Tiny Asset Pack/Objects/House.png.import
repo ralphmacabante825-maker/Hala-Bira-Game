@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bf1u65dku6i8m"
-path="res://.godot/imported/House.png-952ca2949071a0eb6fab8851b95e2aa5.ctex"
+path="res://.godot/imported/House.png-1907e5ca3b32275aaa0082297018053d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/Sprites/Farm RPG FREE 16x16 - Tiny Asset Pack/Objects/House.png"
-dest_files=["res://.godot/imported/House.png-952ca2949071a0eb6fab8851b95e2aa5.ctex"]
+source_file="res://assets/images/sprites/Farm RPG FREE 16x16 - Tiny Asset Pack/Objects/House.png"
+dest_files=["res://.godot/imported/House.png-1907e5ca3b32275aaa0082297018053d.ctex"]
 
 [params]
 

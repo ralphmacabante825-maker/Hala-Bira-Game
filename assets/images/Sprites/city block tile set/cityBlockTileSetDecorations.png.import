@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://y3e7wphmqx34"
-path="res://.godot/imported/cityBlockTileSetDecorations.png-3774a74a0c2844760e8fe5e32cf13bda.ctex"
+path="res://.godot/imported/cityBlockTileSetDecorations.png-fc077ac987264302fca609eb089bdc46.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/Sprites/city block tile set/cityBlockTileSetDecorations.png"
-dest_files=["res://.godot/imported/cityBlockTileSetDecorations.png-3774a74a0c2844760e8fe5e32cf13bda.ctex"]
+source_file="res://assets/images/sprites/city block tile set/cityBlockTileSetDecorations.png"
+dest_files=["res://.godot/imported/cityBlockTileSetDecorations.png-fc077ac987264302fca609eb089bdc46.ctex"]
 
 [params]
 

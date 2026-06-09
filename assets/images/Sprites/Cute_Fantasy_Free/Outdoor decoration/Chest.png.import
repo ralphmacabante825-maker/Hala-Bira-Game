@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://blb5dosxhml0s"
-path="res://.godot/imported/Chest.png-360f1d30ec1ea17543162d0c2cc066f5.ctex"
+path="res://.godot/imported/Chest.png-2daf63a920a0b5dcfc2132f4097298dc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/Sprites/Cute_Fantasy_Free/Outdoor decoration/Chest.png"
-dest_files=["res://.godot/imported/Chest.png-360f1d30ec1ea17543162d0c2cc066f5.ctex"]
+source_file="res://assets/images/sprites/Cute_Fantasy_Free/Outdoor decoration/Chest.png"
+dest_files=["res://.godot/imported/Chest.png-2daf63a920a0b5dcfc2132f4097298dc.ctex"]
 
 [params]
 

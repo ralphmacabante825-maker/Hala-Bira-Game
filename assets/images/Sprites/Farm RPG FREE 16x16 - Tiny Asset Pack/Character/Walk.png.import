@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jkhs5pq8ln73"
-path="res://.godot/imported/Walk.png-a24f02248c1be23d2227f1b49af910cd.ctex"
+path="res://.godot/imported/Walk.png-c35c5a0c4d61f6b58c2f38031d1889b1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/Sprites/Farm RPG FREE 16x16 - Tiny Asset Pack/Character/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-a24f02248c1be23d2227f1b49af910cd.ctex"]
+source_file="res://assets/images/sprites/Farm RPG FREE 16x16 - Tiny Asset Pack/Character/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-c35c5a0c4d61f6b58c2f38031d1889b1.ctex"]
 
 [params]
 
