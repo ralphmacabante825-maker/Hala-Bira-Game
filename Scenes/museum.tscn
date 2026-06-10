@@ -1,15 +1,18 @@
 [gd_scene format=4 uid="uid://cf1w8wsd22cr7"]
 
-[ext_resource type="Texture2D" uid="uid://bknllnbopc7k4" path="res://assets/images/sprites/Interior/Interiors_free/16x16/Room_Builder_free_16x16.png" id="1_jkg5h"]
+[ext_resource type="Texture2D" uid="uid://bknllnbopc7k4" path="res://assets/images/Sprites/Interior/Interiors_free/16x16/Room_Builder_free_16x16.png" id="1_jkg5h"]
 [ext_resource type="TileSet" uid="uid://ccyid6pjg3tdn" path="res://assets/new_tile_set.tres" id="1_ybt8h"]
-[ext_resource type="Texture2D" uid="uid://k57203xjgrdn" path="res://assets/images/sprites/Interior/Interiors_free/16x16/Interiors_free_16x16.png" id="2_b7ohi"]
-[ext_resource type="Texture2D" uid="uid://b62cidj05y1gx" path="res://assets/images/sprites/Interior/Museum_sprites/Treasure+/Treasure+.png" id="4_srx20"]
-[ext_resource type="Texture2D" uid="uid://c1en2jahe1f0k" path="res://assets/images/sprites/Interior/Museum_sprites/fence_post.png" id="6_ia5r6"]
-[ext_resource type="Texture2D" uid="uid://c1e6dwuycem5f" path="res://assets/images/sprites/Interior/Museum_sprites/statue_pedestal_big.png" id="8_eqlmn"]
-[ext_resource type="Texture2D" uid="uid://1krwfi2k5g51" path="res://assets/images/sprites/Interior/Museum_sprites/statue_pedestal_small.png" id="9_20gh1"]
-[ext_resource type="Texture2D" uid="uid://mtmnwljyycfw" path="res://assets/images/sprites/Interior/Museum_sprites/writings_artif&rope.png" id="12_vib3h"]
-[ext_resource type="Texture2D" uid="uid://db63dj28whqik" path="res://assets/images/sprites/Interior/Museum_sprites/fence_rope_left_half.png" id="13_a02an"]
-[ext_resource type="Texture2D" uid="uid://be545tu6yipu6" path="res://assets/images/sprites/Interior/Museum_sprites/fence_rope_right_half.png" id="14_6biwd"]
+[ext_resource type="Texture2D" uid="uid://k57203xjgrdn" path="res://assets/images/Sprites/Interior/Interiors_free/16x16/Interiors_free_16x16.png" id="2_b7ohi"]
+[ext_resource type="Texture2D" uid="uid://b62cidj05y1gx" path="res://assets/images/Sprites/Interior/Museum_sprites/Treasure+/Treasure+.png" id="4_srx20"]
+[ext_resource type="Texture2D" uid="uid://c1en2jahe1f0k" path="res://assets/images/Sprites/Interior/Museum_sprites/fence_post.png" id="6_ia5r6"]
+[ext_resource type="Texture2D" uid="uid://c1e6dwuycem5f" path="res://assets/images/Sprites/Interior/Museum_sprites/statue_pedestal_big.png" id="8_eqlmn"]
+[ext_resource type="Texture2D" uid="uid://1krwfi2k5g51" path="res://assets/images/Sprites/Interior/Museum_sprites/statue_pedestal_small.png" id="9_20gh1"]
+[ext_resource type="PackedScene" uid="uid://dc4gld73gai25" path="res://playerScene.tscn" id="11_4qlf7"]
+[ext_resource type="Script" uid="uid://bhs6i6dn83puc" path="res://Scripts/Glass Case.gd" id="12_20gh1"]
+[ext_resource type="Texture2D" uid="uid://mtmnwljyycfw" path="res://assets/images/Sprites/Interior/Museum_sprites/writings_artif&rope.png" id="12_vib3h"]
+[ext_resource type="Texture2D" uid="uid://db63dj28whqik" path="res://assets/images/Sprites/Interior/Museum_sprites/fence_rope_left_half.png" id="13_a02an"]
+[ext_resource type="Resource" uid="uid://oywokgirbmb8" path="res://resources/artifact.dialogue" id="13_hy0ww"]
+[ext_resource type="Texture2D" uid="uid://be545tu6yipu6" path="res://assets/images/Sprites/Interior/Museum_sprites/fence_rope_right_half.png" id="14_6biwd"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_fwsb1"]
 texture = ExtResource("2_b7ohi")
@@ -3996,6 +3999,9 @@ sources/16 = SubResource("TileSetAtlasSource_naqgm")
 sources/19 = SubResource("TileSetAtlasSource_4nkoj")
 sources/20 = SubResource("TileSetAtlasSource_isovs")
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_hy0ww"]
+size = Vector2(27, 49.375)
+
 [node name="Museum" type="Node2D" unique_id=480853205]
 
 [node name="Floor" type="TileMapLayer" parent="." unique_id=17346589]
@@ -4013,3 +4019,23 @@ tile_set = SubResource("TileSet_k7yn6")
 [node name="Artifacts" type="TileMapLayer" parent="." unique_id=1974845409]
 tile_map_data = PackedByteArray("AAAgABYAAgAIABYAAAAgABcAAgAIABcAAAAhABYAAgAJABYAAAAhABcAAgAJABcAAAAbABsABQAMAAcAAAAXABsABQAPAAUAAAAZABsABQAOAAUAAAAXACAAEAABAAAAAAAXAB8AEAAAAAAAAAAmAB8AEAABAAEAAAAmACAAEAACAAEAAAAoAB8AEAACAAAAAAAoACAAEAAAAAEAAAAqACAAEAAAAAEAAAAqAB8AEAACAAAAAAAdABgAEAABAAIAAAAeABgAEAABAAIAAAAfABgAEAABAAIAAAAgABgAEAABAAIAAAAhABgAEAABAAIAAAAiABgAEAABAAIAAAAjABgAEAABAAIAAAAkABgAEAABAAIAAAAaABgAEAABAAIAAAAbABgAEAABAAIAAAAcABgAEAABAAIAAAAlABgAEAABAAIAAAAmABgAEAABAAIAAAAnABgAEwAAAAAAAAAYACAAEAABAAAAAAAYAB8AEAAAAAAAAAAbACAAEAABAAAAAAAbAB8AEAAAAAAAAAAaABYAAgAAAEgAAAAaABcAAgAAAEkAAAAcABYAAgACAEYAAAAcABcAAgACAEcAAAAkABYAAgAAAEwAAAAkABcAAgAAAE0AAAAdABYAAgAKABUAAAAdABcAAgAKABYAAAAeABYAAgALABUAAAAeABcAAgALABYAAAAqAB4AAgAAAEUAAAAqAB0AAgAAAEQAAAAoAB4AAgAAAEMAAAAmABwAAgAAAEMAAAAmABsAAgAAAEIAAAAoAB0AAgAAAEIAAAAmAB4AAgABAEMAAAAmAB0AAgABAEIAAAAoABwAAgACAEMAAAAqABwAAgACAEMAAAAoABsAAgACAEIAAAAqABsAAgACAEIAAAArABsAAgAAADEAAAArABwAAgAAADIAAAAXAB0ABQAPAA4AAAAZAB0ABQANAAQAAAAbAB0ABQADAAQAAAAZABgAFAAAAAAAAAAgACQAAgALABMAAAAgACUAAgALABQAAAAhACQAAgAMABMAAAAhACUAAgAMABQAAAAWABcAAgAKACwAAAA=")
 tile_set = SubResource("TileSet_6biwd")
+
+[node name="Player" parent="." unique_id=1630204055 instance=ExtResource("11_4qlf7")]
+position = Vector2(528, 595)
+scale = Vector2(0.5, 0.5)
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1521613396]
+position = Vector2(527, 462)
+zoom = Vector2(2, 2)
+
+[node name="Area2D" type="Area2D" parent="." unique_id=742542824]
+position = Vector2(528, 490)
+script = ExtResource("12_20gh1")
+dialogue_resource = ExtResource("13_hy0ww")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D" unique_id=460969128]
+position = Vector2(-0.5, -17.6875)
+shape = SubResource("RectangleShape2D_hy0ww")
+
+[connection signal="body_entered" from="Area2D" to="Area2D" method="_on_body_entered"]
+[connection signal="body_exited" from="Area2D" to="Area2D" method="_on_body_exited"]
