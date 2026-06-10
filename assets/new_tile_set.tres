@@ -1,8 +1,8 @@
 [gd_resource type="TileSet" format=3 uid="uid://ccyid6pjg3tdn"]
 
-[ext_resource type="Texture2D" uid="uid://bknllnbopc7k4" path="res://assets/images/sprites/Interior/Interiors_free/16x16/Room_Builder_free_16x16.png" id="1_6buih"]
-[ext_resource type="Texture2D" uid="uid://mtmnwljyycfw" path="res://assets/images/sprites/Interior/Museum_sprites/writings_artif&rope.png" id="2_btyyc"]
-[ext_resource type="Texture2D" uid="uid://k57203xjgrdn" path="res://assets/images/sprites/Interior/Interiors_free/16x16/Interiors_free_16x16.png" id="3_6n06g"]
+[ext_resource type="Texture2D" uid="uid://bknllnbopc7k4" path="res://assets/images/Sprites/Interior/Interiors_free/16x16/Room_Builder_free_16x16.png" id="1_6buih"]
+[ext_resource type="Texture2D" uid="uid://mtmnwljyycfw" path="res://assets/images/Sprites/Interior/Museum_sprites/writings_artif&rope.png" id="2_btyyc"]
+[ext_resource type="Texture2D" uid="uid://k57203xjgrdn" path="res://assets/images/Sprites/Interior/Interiors_free/16x16/Interiors_free_16x16.png" id="3_6n06g"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_b7ohi"]
 texture = ExtResource("1_6buih")

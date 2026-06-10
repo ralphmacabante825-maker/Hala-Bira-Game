@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://oywokgirbmb8"
+path="res://.godot/imported/artifact.dialogue-c3d79fc9286bd1a7285b25e4b88417bf.tres"
+
+[deps]
+
+source_file="res://resources/artifact.dialogue"
+dest_files=["res://.godot/imported/artifact.dialogue-c3d79fc9286bd1a7285b25e4b88417bf.tres"]
+
+[params]
+
+defaults=true

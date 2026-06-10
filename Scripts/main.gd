@@ -54,6 +54,7 @@ func start_cutscene():
 
 	await player_tween.finished
 	player.animated_sprite_2d.play("idle_up")
-
+	await get_tree().create_timer(0.5).timeout
+	get_tree().change_scene_to_file("res://Scenes/museum.tscn")
 	player.set_physics_process(true)
 	print("Cutscene finished")
