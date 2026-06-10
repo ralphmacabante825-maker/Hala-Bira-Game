@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1krwfi2k5g51"
-path="res://.godot/imported/statue_pedestal_small.png-b05419ce9f96aabb0af8033af97b4a3d.ctex"
+path="res://.godot/imported/statue_pedestal_small.png-b5ee6a6c7efdda49d844c56196dcb5a0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/Interior/Museum_sprites/statue_pedestal_small.png"
-dest_files=["res://.godot/imported/statue_pedestal_small.png-b05419ce9f96aabb0af8033af97b4a3d.ctex"]
+source_file="res://assets/images/Sprites/Interior/Museum_sprites/statue_pedestal_small.png"
+dest_files=["res://.godot/imported/statue_pedestal_small.png-b5ee6a6c7efdda49d844c56196dcb5a0.ctex"]
 
 [params]
 

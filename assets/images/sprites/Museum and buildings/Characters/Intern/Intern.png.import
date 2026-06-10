@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2wouhsvt6wps"
-path="res://.godot/imported/Intern.png-bfd2d757145ade9d1e7d7c75cff5e6d4.ctex"
+path="res://.godot/imported/Intern.png-3e2fcb07d92ec7d938dfe6060e98e038.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/Museum and buildings/Characters/Intern/Intern.png"
-dest_files=["res://.godot/imported/Intern.png-bfd2d757145ade9d1e7d7c75cff5e6d4.ctex"]
+source_file="res://assets/images/Sprites/Museum and buildings/Characters/Intern/Intern.png"
+dest_files=["res://.godot/imported/Intern.png-3e2fcb07d92ec7d938dfe6060e98e038.ctex"]
 
 [params]
 

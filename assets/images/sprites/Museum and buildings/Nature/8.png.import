@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cub7fqfma15m8"
-path="res://.godot/imported/8.png-c8fc286b0d12f7d9265784f0bcbb642c.ctex"
+path="res://.godot/imported/8.png-4c340434d97f8f56dcc9131eedb297eb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/Museum and buildings/Nature/8.png"
-dest_files=["res://.godot/imported/8.png-c8fc286b0d12f7d9265784f0bcbb642c.ctex"]
+source_file="res://assets/images/Sprites/Museum and buildings/Nature/8.png"
+dest_files=["res://.godot/imported/8.png-4c340434d97f8f56dcc9131eedb297eb.ctex"]
 
 [params]
 
