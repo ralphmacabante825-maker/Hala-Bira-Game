@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dteilkp57rx2o"
-path="res://.godot/imported/Character_2_48x48_RPGMAKER.png-7f106f653dd212739b305cabbc1c86fe.ctex"
+path="res://.godot/imported/Character_2_48x48_RPGMAKER.png-3918ac3ca85d0d361c1d98688e3c1cfc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/Interior/Old/mv/Character_2_48x48_RPGMAKER.png"
-dest_files=["res://.godot/imported/Character_2_48x48_RPGMAKER.png-7f106f653dd212739b305cabbc1c86fe.ctex"]
+source_file="res://assets/images/Sprites/Interior/Old/mv/Character_2_48x48_RPGMAKER.png"
+dest_files=["res://.godot/imported/Character_2_48x48_RPGMAKER.png-3918ac3ca85d0d361c1d98688e3c1cfc.ctex"]
 
 [params]
 

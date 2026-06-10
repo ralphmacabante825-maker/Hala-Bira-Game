@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://g8o3tkf2c03y"
-path="res://.godot/imported/chest.png-0a4a12aece3fd36291be3d2dcda1bad5.ctex"
+path="res://.godot/imported/chest.png-025f5154690ec98e3324bacb3a423c8b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/Farm RPG FREE 16x16 - Tiny Asset Pack/Objects/chest.png"
-dest_files=["res://.godot/imported/chest.png-0a4a12aece3fd36291be3d2dcda1bad5.ctex"]
+source_file="res://assets/images/Sprites/Farm RPG FREE 16x16 - Tiny Asset Pack/Objects/chest.png"
+dest_files=["res://.godot/imported/chest.png-025f5154690ec98e3324bacb3a423c8b.ctex"]
 
 [params]
 

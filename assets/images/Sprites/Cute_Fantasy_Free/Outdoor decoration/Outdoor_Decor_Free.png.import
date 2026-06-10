@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8vjjfx2fuwk8"
-path="res://.godot/imported/Outdoor_Decor_Free.png-0ec3715d1bc69b8974a10fb0432818af.ctex"
+path="res://.godot/imported/Outdoor_Decor_Free.png-05ae0400b17fc719fd8e906b76bfc07d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/Cute_Fantasy_Free/Outdoor decoration/Outdoor_Decor_Free.png"
-dest_files=["res://.godot/imported/Outdoor_Decor_Free.png-0ec3715d1bc69b8974a10fb0432818af.ctex"]
+source_file="res://assets/images/Sprites/Cute_Fantasy_Free/Outdoor decoration/Outdoor_Decor_Free.png"
+dest_files=["res://.godot/imported/Outdoor_Decor_Free.png-05ae0400b17fc719fd8e906b76bfc07d.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b15amgfl7cu2c"
-path="res://.godot/imported/1.png-2ef5c67f4f5fc87c0db5b00f06f7fc13.ctex"
+path="res://.godot/imported/1.png-44a72b4c825f452065985e73628c3d06.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/Museum and buildings/Building/Hospital/1.png"
-dest_files=["res://.godot/imported/1.png-2ef5c67f4f5fc87c0db5b00f06f7fc13.ctex"]
+source_file="res://assets/images/Sprites/Museum and buildings/Building/Hospital/1.png"
+dest_files=["res://.godot/imported/1.png-44a72b4c825f452065985e73628c3d06.ctex"]
 
 [params]
 
