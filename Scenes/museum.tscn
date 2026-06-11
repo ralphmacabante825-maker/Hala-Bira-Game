@@ -4000,7 +4000,7 @@ sources/19 = SubResource("TileSetAtlasSource_4nkoj")
 sources/20 = SubResource("TileSetAtlasSource_isovs")
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_hy0ww"]
-size = Vector2(27, 49.375)
+size = Vector2(27, 51.398438)
 
 [node name="Museum" type="Node2D" unique_id=480853205]
 
@@ -4034,7 +4034,7 @@ script = ExtResource("12_20gh1")
 dialogue_resource = ExtResource("13_hy0ww")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D" unique_id=460969128]
-position = Vector2(-0.5, -17.6875)
+position = Vector2(0.5, -18.699219)
 shape = SubResource("RectangleShape2D_hy0ww")
 
 [connection signal="body_entered" from="Area2D" to="Area2D" method="_on_body_entered"]
