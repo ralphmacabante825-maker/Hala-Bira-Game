@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://jposkxfoiiy3"
-path="res://.godot/imported/city_cars_2.png-0332efc58259c02817d8c1f4f01abcfa.ctex"
+uid="uid://dhuf6ne76hmyj"
+path="res://.godot/imported/house_details.png-57e5e663a40554eaa7e78b11bb339c11.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/city_cars_2.png"
-dest_files=["res://.godot/imported/city_cars_2.png-0332efc58259c02817d8c1f4f01abcfa.ctex"]
+source_file="res://assets/images/sprites/main-characters-home-free-top-down-pixel-art-asset/PNG/house_details.png"
+dest_files=["res://.godot/imported/house_details.png-57e5e663a40554eaa7e78b11bb339c11.ctex"]
 
 [params]
 

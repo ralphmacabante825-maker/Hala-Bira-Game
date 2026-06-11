@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://jposkxfoiiy3"
-path="res://.godot/imported/city_cars_2.png-0332efc58259c02817d8c1f4f01abcfa.ctex"
+uid="uid://boehn5fe62gc5"
+path="res://.godot/imported/sprite_03.png-3c7f38c219824b87c71ef2a924d12ca4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/city_cars_2.png"
-dest_files=["res://.godot/imported/city_cars_2.png-0332efc58259c02817d8c1f4f01abcfa.ctex"]
+source_file="res://assets/images/Flooring Tilesets/Flooring Tilesets/Wooden Planks/sprite_03.png"
+dest_files=["res://.godot/imported/sprite_03.png-3c7f38c219824b87c71ef2a924d12ca4.ctex"]
 
 [params]
 

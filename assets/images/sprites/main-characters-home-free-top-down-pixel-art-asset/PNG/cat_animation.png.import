@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://jposkxfoiiy3"
-path="res://.godot/imported/city_cars_2.png-0332efc58259c02817d8c1f4f01abcfa.ctex"
+uid="uid://cnr1yvxx3glkn"
+path="res://.godot/imported/cat_animation.png-ba14c160b3ed62f446ce9b195c6f618f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/city_cars_2.png"
-dest_files=["res://.godot/imported/city_cars_2.png-0332efc58259c02817d8c1f4f01abcfa.ctex"]
+source_file="res://assets/images/sprites/main-characters-home-free-top-down-pixel-art-asset/PNG/cat_animation.png"
+dest_files=["res://.godot/imported/cat_animation.png-ba14c160b3ed62f446ce9b195c6f618f.ctex"]
 
 [params]
 

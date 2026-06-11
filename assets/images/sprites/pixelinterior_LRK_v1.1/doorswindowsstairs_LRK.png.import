@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://jposkxfoiiy3"
-path="res://.godot/imported/city_cars_2.png-0332efc58259c02817d8c1f4f01abcfa.ctex"
+uid="uid://bxdxci0qd1d55"
+path="res://.godot/imported/doorswindowsstairs_LRK.png-d259e5337e88cff28b9ab2b359b033d2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/city_cars_2.png"
-dest_files=["res://.godot/imported/city_cars_2.png-0332efc58259c02817d8c1f4f01abcfa.ctex"]
+source_file="res://assets/images/sprites/pixelinterior_LRK_v1.1/doorswindowsstairs_LRK.png"
+dest_files=["res://.godot/imported/doorswindowsstairs_LRK.png-d259e5337e88cff28b9ab2b359b033d2.ctex"]
 
 [params]
 

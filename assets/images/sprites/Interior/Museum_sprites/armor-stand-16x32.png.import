@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://jposkxfoiiy3"
-path="res://.godot/imported/city_cars_2.png-0332efc58259c02817d8c1f4f01abcfa.ctex"
+uid="uid://5wsgbpww65aa"
+path="res://.godot/imported/armor-stand-16x32.png-9f52f114218a2c7eede9509fe49adf87.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/city_cars_2.png"
-dest_files=["res://.godot/imported/city_cars_2.png-0332efc58259c02817d8c1f4f01abcfa.ctex"]
+source_file="res://assets/images/sprites/Interior/Museum_sprites/armor-stand-16x32.png"
+dest_files=["res://.godot/imported/armor-stand-16x32.png-9f52f114218a2c7eede9509fe49adf87.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://jposkxfoiiy3"
-path="res://.godot/imported/city_cars_2.png-0332efc58259c02817d8c1f4f01abcfa.ctex"
+uid="uid://bgcu2ft6k72d2"
+path="res://.godot/imported/sprite_03.png-b644617d40b1eb5219df29b2c21b26ce.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/city_cars_2.png"
-dest_files=["res://.godot/imported/city_cars_2.png-0332efc58259c02817d8c1f4f01abcfa.ctex"]
+source_file="res://assets/images/Flooring Tilesets/Flooring Tilesets/Stone Tiles/sprite_03.png"
+dest_files=["res://.godot/imported/sprite_03.png-b644617d40b1eb5219df29b2c21b26ce.ctex"]
 
 [params]
 
