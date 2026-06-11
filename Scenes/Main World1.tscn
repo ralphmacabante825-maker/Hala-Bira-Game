@@ -1,19 +1,19 @@
 [gd_scene format=4 uid="uid://dtenxpt84cs7t"]
 
-[ext_resource type="Texture2D" uid="uid://ckrtduy66fsu2" path="res://assets/images/Sprites/3.png" id="1_jlnr3"]
+[ext_resource type="Texture2D" uid="uid://ckrtduy66fsu2" path="res://assets/images/sprites/Background/Clouds.png" id="1_jlnr3"]
 [ext_resource type="Script" uid="uid://dq0e3d288d1cm" path="res://Scripts/main.gd" id="1_nqe8u"]
-[ext_resource type="Texture2D" uid="uid://dqa8af3v3msj3" path="res://assets/images/Sprites/city block tile set/cityBlockTileSetRoads.png" id="2_nqe8u"]
-[ext_resource type="Texture2D" uid="uid://y3e7wphmqx34" path="res://assets/images/Sprites/city block tile set/cityBlockTileSetDecorations.png" id="3_laqi3"]
-[ext_resource type="Texture2D" uid="uid://6ahhhofe1ajd" path="res://assets/images/Sprites/city block tile set/cityBlockTileSetBuildings.png" id="4_66xs1"]
-[ext_resource type="Texture2D" uid="uid://c8falwmwelw6x" path="res://assets/images/Sprites/city block tile set/cityBlockTileSetFull.png" id="5_r84mi"]
-[ext_resource type="Texture2D" uid="uid://gl1ndaneafb" path="res://assets/images/Sprites/Museum and bildings/Building/Hospital/Hospital_1.png" id="6_abak3"]
-[ext_resource type="Texture2D" uid="uid://bp1j2ypsq21qk" path="res://assets/images/Sprites/Museum and bildings/Building/Library/Library_obj.png" id="7_4pxpk"]
-[ext_resource type="Texture2D" uid="uid://p5btc1si5doq" path="res://assets/images/Sprites/Museum and bildings/Building/Bank/Bank.png" id="8_vf8j5"]
-[ext_resource type="Texture2D" uid="uid://6v4hcrgc1qsm" path="res://assets/images/Sprites/GuttyKreum_JapaneseCity_Freev1/Free_Version/Preview_RPGMakerVXAce.png" id="9_xo2yp"]
-[ext_resource type="Texture2D" uid="uid://dl6586c6grn2x" path="res://assets/images/Sprites/City Prop Tileset update 2.png" id="10_x8w63"]
-[ext_resource type="Texture2D" uid="uid://hvtoovf732m1" path="res://assets/images/Sprites/GuttyKreum_JapaneseCity_Freev1/Free_Version/Tilemap/Tilemap.png" id="11_flmwu"]
+[ext_resource type="Texture2D" uid="uid://dqa8af3v3msj3" path="res://assets/images/sprites/city block tile set/cityBlockTileSetRoads.png" id="2_nqe8u"]
+[ext_resource type="Texture2D" uid="uid://y3e7wphmqx34" path="res://assets/images/sprites/city block tile set/cityBlockTileSetDecorations.png" id="3_laqi3"]
+[ext_resource type="Texture2D" uid="uid://6ahhhofe1ajd" path="res://assets/images/sprites/city block tile set/cityBlockTileSetBuildings.png" id="4_66xs1"]
+[ext_resource type="Texture2D" uid="uid://c8falwmwelw6x" path="res://assets/images/sprites/city block tile set/cityBlockTileSetFull.png" id="5_r84mi"]
+[ext_resource type="Texture2D" uid="uid://gl1ndaneafb" path="res://assets/images/sprites/Museum and buildings/Building/Hospital/Hospital_1.png" id="6_abak3"]
+[ext_resource type="Texture2D" uid="uid://bp1j2ypsq21qk" path="res://assets/images/sprites/Museum and buildings/Building/Library/Library_obj.png" id="7_4pxpk"]
+[ext_resource type="Texture2D" uid="uid://p5btc1si5doq" path="res://assets/images/sprites/Museum and buildings/Building/Bank/Bank.png" id="8_vf8j5"]
+[ext_resource type="Texture2D" uid="uid://6v4hcrgc1qsm" path="res://assets/images/sprites/GuttyKreum_JapaneseCity_Freev1/Free_Version/Preview_RPGMakerVXAce.png" id="9_xo2yp"]
+[ext_resource type="Texture2D" uid="uid://dl6586c6grn2x" path="res://assets/images/sprites/City Prop Tileset update 2.png" id="10_x8w63"]
+[ext_resource type="Texture2D" uid="uid://hvtoovf732m1" path="res://assets/images/sprites/GuttyKreum_JapaneseCity_Freev1/Free_Version/Tilemap/Tilemap.png" id="11_flmwu"]
 [ext_resource type="PackedScene" uid="uid://dc4gld73gai25" path="res://playerScene.tscn" id="12_uvr8d"]
-[ext_resource type="Texture2D" uid="uid://jposkxfoiiy3" path="res://assets/images/Sprites/city_cars_2.png" id="14_laqi3"]
+[ext_resource type="Texture2D" uid="uid://jposkxfoiiy3" path="res://assets/images/sprites/city_cars_2.png" id="14_laqi3"]
 
 [sub_resource type="CompressedTexture2D" id="CompressedTexture2D_nr8wp"]
 
@@ -29191,6 +29191,7 @@ pattern_1 = SubResource("TileMapPattern_q6r6c")
 
 [node name="Main" type="Node2D" unique_id=573925446]
 show_behind_parent = true
+position = Vector2(1, 0)
 script = ExtResource("1_nqe8u")
 
 [node name="BG" type="TileMapLayer" parent="." unique_id=1159299558]
