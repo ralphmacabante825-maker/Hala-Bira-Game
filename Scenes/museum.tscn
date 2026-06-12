@@ -4030,6 +4030,7 @@ zoom = Vector2(2, 2)
 
 [node name="Area2D" type="Area2D" parent="." unique_id=742542824]
 position = Vector2(528, 490)
+monitoring = false
 script = ExtResource("12_20gh1")
 dialogue_resource = ExtResource("13_hy0ww")
 
