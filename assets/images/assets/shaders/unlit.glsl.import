@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bhg6yfuljftn6"
+path="res://.godot/imported/unlit.glsl-233ce5a99f07014ed59910ddb56e8d64.res"
+
+[deps]
+
+source_file="res://assets/images/assets/shaders/unlit.glsl"
+dest_files=["res://.godot/imported/unlit.glsl-233ce5a99f07014ed59910ddb56e8d64.res"]
+
+[params]
+

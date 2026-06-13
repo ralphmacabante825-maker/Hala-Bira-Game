@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c5aev54ctrh3g"
+path="res://.godot/imported/grid_depth.glsl-23d4f5164850f7b9d4627e6a482d8562.res"
+
+[deps]
+
+source_file="res://assets/images/Sprites/Cute_Fantasy_Free/alpha/alpha/assets/shaders/grid_depth.glsl"
+dest_files=["res://.godot/imported/grid_depth.glsl-23d4f5164850f7b9d4627e6a482d8562.res"]
+
+[params]
+

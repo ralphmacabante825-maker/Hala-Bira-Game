@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://sxf8mr576oim"
+path="res://.godot/imported/house.glsl-01ced932cfb71d761dcce7550c4e1979.res"
+
+[deps]
+
+source_file="res://assets/images/Sprites/Cute_Fantasy_Free/alpha/alpha/assets/shaders/house.glsl"
+dest_files=["res://.godot/imported/house.glsl-01ced932cfb71d761dcce7550c4e1979.res"]
+
+[params]
+

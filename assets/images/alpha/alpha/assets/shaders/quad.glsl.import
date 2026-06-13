@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cr3f6bg6o15me"
+path="res://.godot/imported/quad.glsl-53847eeecc02e0c13feec2568021c2ac.res"
+
+[deps]
+
+source_file="res://assets/images/alpha/alpha/assets/shaders/quad.glsl"
+dest_files=["res://.godot/imported/quad.glsl-53847eeecc02e0c13feec2568021c2ac.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://je1y5mh1w1yj"
+path="res://.godot/imported/quad.glsl-33b1f6f4e83debb728fba9d6d877520d.res"
+
+[deps]
+
+source_file="res://assets/images/Sprites/Cute_Fantasy_Free/alpha/alpha/assets/shaders/quad.glsl"
+dest_files=["res://.godot/imported/quad.glsl-33b1f6f4e83debb728fba9d6d877520d.res"]
+
+[params]
+

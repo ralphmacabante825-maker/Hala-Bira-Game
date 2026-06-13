@@ -1,0 +1,105 @@
+[
+  {
+    "description": "Chopping damage increase {:.1f}->{:.1f}",
+    "position": [-100, 0],
+    "spriteRect": [304, 144, 16, 16],
+    "maxLevel": 10,
+    "showChildrenAt": 3,
+    "cost": { "type": "Exponential", "base": 50, "mult": 2.35 },
+    "modifier": { "statType": "HarvestDamage", "modifierType": "Multiplicative", "value": 1.4 },
+    "children": [
+      {
+        "description": "Chop at the same amount {:.1f}->{:.1f}",
+        "position": [-130, -60],
+        "spriteRect": [448, 128, 16, 16],
+        "maxLevel": 5,
+        "showChildrenAt": 1,
+        "cost": { "type": "Exponential", "base": 500, "mult": 2.45 },
+        "modifier": { "statType": "HarvestAmount", "modifierType": "Flat", "value": 1.0 },
+        "children": [
+          {
+            "description": "Chopping range {:.1f}->{:.1f}",
+            "position": [-100, -120],
+            "spriteRect": [288, 144, 16, 16],
+            "maxLevel": 5,
+            "showChildrenAt": 4,
+            "cost": { "type": "Exponential", "base": 150, "mult": 2.3 },
+            "modifier": { "statType": "HarvestRange", "modifierType": "Multiplicative", "value": 1.2 },
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "Movement speed increase {:.1f}->{:.1f}",
+    "position": [0, 0],
+    "spriteRect": [464, 144, 16, 16],
+    "maxLevel": 5,
+    "showChildrenAt": 2,
+    "cost": { "type": "Exponential", "base": 40, "mult": 2.25 },
+    "modifier": { "statType": "MoveSpeed", "modifierType": "Multiplicative", "value": 1.075 },
+    "children": [
+      {
+        "description": "Stamina increase {:.1f}->{:.1f}",
+        "position": [0, -60],
+        "spriteRect": [240, 160, 16, 16],
+        "maxLevel": 5,
+        "showChildrenAt": 2,
+        "cost": { "type": "Exponential", "base": 100, "mult": 2.3 },
+        "modifier": { "statType": "Stamina", "modifierType": "Flat", "value": 2.5 },
+        "children":[
+          {
+            "description": "Visibility increase {:.1f}->{:.1f}",
+            "position": [0, -120],
+            "spriteRect": [480, 144, 16, 16],
+            "maxLevel": 5,
+            "showChildrenAt": 2,
+            "cost": { "type": "Exponential", "base": 300, "mult": 2.5 },
+            "modifier": { "statType": "PlayerVisibility", "modifierType": "Flat", "value": 25.0 }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "Aura Attack Count {:.1f}->{:.1f}",
+    "position": [100, 0],
+    "spriteRect": [432, 144, 16, 16],
+    "maxLevel": 5,
+    "showChildrenAt": 1,
+    "cost": { "type": "Exponential", "base": 1000, "mult": 3.2 },
+    "modifier": { "statType": "AuraCount", "modifierType": "Flat", "value": 1.0 },
+    "children": [
+      {
+        "description": "Aura damage increase {:.1f}->{:.1f}",
+        "position": [130, -60],
+        "spriteRect": [336, 144, 16, 16],
+        "maxLevel": 10,
+        "showChildrenAt": 2,
+        "cost": { "type": "Exponential", "base": 600, "mult": 2.8 },
+        "modifier": { "statType": "AuraDamage", "modifierType": "Multiplicative", "value": 1.25 },
+        "children": [
+          {
+            "description": "Aura range increase {:.1f}->{:.1f}",
+            "position": [100, -120],
+            "spriteRect": [288, 144, 16, 16],
+            "maxLevel": 5,
+            "showChildrenAt": 2,
+            "cost": { "type": "Exponential", "base": 400, "mult": 3.2 },
+            "modifier": { "statType": "AuraRange", "modifierType": "Flat", "value": 5.0 }
+          },
+          {
+            "description": "Aura cooldown decrease {:.1f}->{:.1f}",
+            "position": [160, -120],
+            "spriteRect": [448, 144, 16, 16],
+            "maxLevel": 5,
+            "showChildrenAt": 2,
+            "cost": { "type": "Exponential", "base": 700, "mult": 3.2 },
+            "modifier": { "statType": "AuraCooldown", "modifierType": "Multiplicative", "value": 0.8 }
+          }
+        ]
+      }
+    ]
+  }
+]

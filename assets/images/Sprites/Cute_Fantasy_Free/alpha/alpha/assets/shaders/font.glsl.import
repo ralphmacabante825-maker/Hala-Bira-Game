@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://drndfb4u5mlk5"
+path="res://.godot/imported/font.glsl-72368755ebe9ef7d793c9caa2570dc25.res"
+
+[deps]
+
+source_file="res://assets/images/Sprites/Cute_Fantasy_Free/alpha/alpha/assets/shaders/font.glsl"
+dest_files=["res://.godot/imported/font.glsl-72368755ebe9ef7d793c9caa2570dc25.res"]
+
+[params]
+

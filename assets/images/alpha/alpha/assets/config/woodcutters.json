@@ -1,0 +1,29 @@
+{
+  "description": "Add woodcutter {:.1f}->{:.1f}",
+  "position": [0, 0],
+  "spriteRect": [480, 128, 16, 16],
+  "maxLevel": 5,
+  "showChildrenAt": 1,
+  "cost": { "type": "Exponential", "base": 750, "mult": 2.2 },
+  "modifier": { "statType": "NpcCount", "modifierType": "Flat", "value": 1.0 },
+  "children": [
+    {
+      "description": "Increase woodcutter chopping damage {:.1f}->{:.1f}",
+      "position": [30, -60],
+      "spriteRect": [304, 144, 16, 16],
+      "maxLevel": 5,
+      "cost": { "type": "Exponential", "base": 400, "mult": 2.75 },
+      "modifier": { "statType": "NpcHarvestDamage", "modifierType": "Multiplicative", "value": 1.75 },
+      "children": []
+    },
+    {
+      "description": "Increase woodcutter movement speed {:.1f}->{:.1f}",
+      "position": [-30, -60],
+      "spriteRect": [464, 144, 16, 16],
+      "maxLevel": 5,
+      "cost": { "type": "Exponential", "base": 200, "mult": 2.75 },
+      "modifier": { "statType": "NpcMoveSpeed", "modifierType": "Multiplicative", "value": 1.1 },
+      "children": []
+    }
+  ]
+}
