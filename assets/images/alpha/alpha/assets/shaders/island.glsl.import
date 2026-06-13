@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cwigpw2eg7n2g"
+path="res://.godot/imported/island.glsl-dd9013caa5135192e332a732959480b2.res"
+
+[deps]
+
+source_file="res://assets/images/alpha/alpha/assets/shaders/island.glsl"
+dest_files=["res://.godot/imported/island.glsl-dd9013caa5135192e332a732959480b2.res"]
+
+[params]
+

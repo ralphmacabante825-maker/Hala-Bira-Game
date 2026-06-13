@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cfjapeiyhgluh"
+path="res://.godot/imported/tree.glsl-75a25da0c279c58757a5494a6aa5380e.res"
+
+[deps]
+
+source_file="res://assets/images/assets/shaders/tree.glsl"
+dest_files=["res://.godot/imported/tree.glsl-75a25da0c279c58757a5494a6aa5380e.res"]
+
+[params]
+

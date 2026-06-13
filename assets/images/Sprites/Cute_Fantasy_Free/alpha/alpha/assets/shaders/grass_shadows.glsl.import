@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://donfymy5uc1s0"
+path="res://.godot/imported/grass_shadows.glsl-19e515fda262e554e05cf98aa98fc0ab.res"
+
+[deps]
+
+source_file="res://assets/images/Sprites/Cute_Fantasy_Free/alpha/alpha/assets/shaders/grass_shadows.glsl"
+dest_files=["res://.godot/imported/grass_shadows.glsl-19e515fda262e554e05cf98aa98fc0ab.res"]
+
+[params]
+

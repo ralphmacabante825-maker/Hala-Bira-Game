@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cyr1i4x7x5fiy"
+path="res://.godot/imported/tree_shadows.glsl-a5537b30fbe0cc1ae683d51135d8251e.res"
+
+[deps]
+
+source_file="res://assets/images/Sprites/Cute_Fantasy_Free/alpha/alpha/assets/shaders/tree_shadows.glsl"
+dest_files=["res://.godot/imported/tree_shadows.glsl-a5537b30fbe0cc1ae683d51135d8251e.res"]
+
+[params]
+

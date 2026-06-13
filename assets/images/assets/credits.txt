@@ -1,0 +1,17 @@
+audio/ground_sfx_loop.ogg: https://freesound.org/people/hargissssound/sounds/471891/ Creative Commons 0
+audio/wind_loop.ogg: https://youtu.be/_yt1oayXZZA?si=5JDMQrrM2dSCRr3n Royality Free
+audio/tree_falling.ogg: https://freesound.org/people/kyles/sounds/637910/ Creative Commons 0
+audio/click.ogg: https://freesound.org/people/kylepyke/sounds/196563/ Creative Commons 0
+audio/rain.ogg: https://freesound.org/people/rasunter255/sounds/416227/ Creative Commons 0
+audio/night_ambience.ogg: https://freesound.org/people/robotjay/sounds/518555/ Creative Commons 0
+audio/grass_footstep.ogg: https://freesound.org/people/Yuval/sounds/206030/ Creative Commons 0
+audio/button.ogg: https://cyberleaf.itch.io/modern-ui-sfx
+audio/music..: Made by Crinkles - Soundtrack from a Box 17 - Attribution 3.0 Unported https://crinklesmusic.bandcamp.com/album/soundtrack-from-a-box-17
+font: https://managore.itch.io/m6x11
+trees: https://zedpxl.itch.io/pixelart-forest-asset-pack
+pidgeon: https://elthen.itch.io/2d-pixel-art-pidgeon-sprites
+fire: https://brullov.itch.io/fire-animation
+enemies: https://overboy.itch.io/character-megapack
+icons: https://finalbossblues.itch.io/icons
+misc: https://danieldiggle.itch.io/sunnyside https://zedpxl.itch.io/pixelart-village-top-down-rpg-asset-pack
+ui: https://gowldev.itch.io/ui-paper https://gowldev.itch.io/adventure-ui-ui-pixel-art-asset-pack

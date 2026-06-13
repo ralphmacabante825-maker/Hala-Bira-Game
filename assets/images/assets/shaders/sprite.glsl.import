@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b42jl1tnrrowo"
+path="res://.godot/imported/sprite.glsl-7846f97887da718dc3523f8977ee60c6.res"
+
+[deps]
+
+source_file="res://assets/images/assets/shaders/sprite.glsl"
+dest_files=["res://.godot/imported/sprite.glsl-7846f97887da718dc3523f8977ee60c6.res"]
+
+[params]
+

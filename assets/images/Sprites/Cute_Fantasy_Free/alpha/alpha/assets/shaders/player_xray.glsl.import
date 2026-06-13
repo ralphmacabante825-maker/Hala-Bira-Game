@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dyjc1sbexe2l7"
+path="res://.godot/imported/player_xray.glsl-b8dc5f8a7c2cd1436bbef0ab2ae061fd.res"
+
+[deps]
+
+source_file="res://assets/images/Sprites/Cute_Fantasy_Free/alpha/alpha/assets/shaders/player_xray.glsl"
+dest_files=["res://.godot/imported/player_xray.glsl-b8dc5f8a7c2cd1436bbef0ab2ae061fd.res"]
+
+[params]
+

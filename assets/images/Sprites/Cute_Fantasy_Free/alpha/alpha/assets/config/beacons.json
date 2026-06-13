@@ -1,0 +1,42 @@
+[
+  {
+    "description": "Beacon aura attack count {:.1f}->{:.1f}",
+    "position": [0, 0],
+    "spriteRect": [432, 144, 16, 16],
+    "maxLevel": 5,
+    "showChildrenAt": 1,
+    "cost": { "type": "Exponential", "base": 5000, "mult": 3.2 },
+    "modifier": { "statType": "BeaconAuraCount", "modifierType": "Flat", "value": 1.0 },
+    "children": [
+      {
+        "description": "Beacon aura damage increase {:.1f}->{:.1f}",
+        "position": [30, -60],
+        "spriteRect": [336, 144, 16, 16],
+        "maxLevel": 10,
+        "showChildrenAt": 1,
+        "cost": { "type": "Exponential", "base": 2500, "mult": 2.8 },
+        "modifier": { "statType": "BeaconAuraDamage", "modifierType": "Multiplicative", "value": 1.35 },
+        "children": [
+          {
+            "description": "Beacon aura cooldown decrease {:.1f}->{:.1f}",
+            "position": [60, -120],
+            "spriteRect": [448, 144, 16, 16],
+            "maxLevel": 5,
+            "showChildrenAt": 1,
+            "cost": { "type": "Exponential", "base": 2000, "mult": 3.2 },
+            "modifier": { "statType": "BeaconAuraCooldown", "modifierType": "Multiplicative", "value": 0.8 }
+          }
+        ]
+      },
+      {
+        "description": "Beacon aura range increase {:.1f}->{:.1f}",
+        "position": [-30, -60],
+        "spriteRect": [288, 144, 16, 16],
+        "maxLevel": 5,
+        "showChildrenAt": 1,
+        "cost": { "type": "Exponential", "base": 1000, "mult": 3.2 },
+        "modifier": { "statType": "BeaconAuraRange", "modifierType": "Multiplicative", "value": 1.15 }
+      }
+    ]
+  }
+]

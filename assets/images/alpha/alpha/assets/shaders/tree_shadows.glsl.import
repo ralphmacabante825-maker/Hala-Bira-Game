@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b1kbyygduma6"
+path="res://.godot/imported/tree_shadows.glsl-e90c205bacfb24302c61fb2ac5312aa2.res"
+
+[deps]
+
+source_file="res://assets/images/alpha/alpha/assets/shaders/tree_shadows.glsl"
+dest_files=["res://.godot/imported/tree_shadows.glsl-e90c205bacfb24302c61fb2ac5312aa2.res"]
+
+[params]
+

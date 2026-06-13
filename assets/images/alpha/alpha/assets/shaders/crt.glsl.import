@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cje1rn64b8xg3"
+path="res://.godot/imported/crt.glsl-faa49aecf1139facf87871568b796196.res"
+
+[deps]
+
+source_file="res://assets/images/alpha/alpha/assets/shaders/crt.glsl"
+dest_files=["res://.godot/imported/crt.glsl-faa49aecf1139facf87871568b796196.res"]
+
+[params]
+

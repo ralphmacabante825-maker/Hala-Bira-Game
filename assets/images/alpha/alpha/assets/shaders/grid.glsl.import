@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dqovlwa6lurpv"
+path="res://.godot/imported/grid.glsl-37782fc51f03ecca4850c1515b10da41.res"
+
+[deps]
+
+source_file="res://assets/images/alpha/alpha/assets/shaders/grid.glsl"
+dest_files=["res://.godot/imported/grid.glsl-37782fc51f03ecca4850c1515b10da41.res"]
+
+[params]
+

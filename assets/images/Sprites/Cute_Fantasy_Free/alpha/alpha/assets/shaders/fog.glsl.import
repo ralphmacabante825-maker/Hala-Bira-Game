@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://r27h85n5yddy"
+path="res://.godot/imported/fog.glsl-971e01360a1cccccce58280c47573c71.res"
+
+[deps]
+
+source_file="res://assets/images/Sprites/Cute_Fantasy_Free/alpha/alpha/assets/shaders/fog.glsl"
+dest_files=["res://.godot/imported/fog.glsl-971e01360a1cccccce58280c47573c71.res"]
+
+[params]
+

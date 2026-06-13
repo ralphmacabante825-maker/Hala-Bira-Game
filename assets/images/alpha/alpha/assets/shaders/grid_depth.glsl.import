@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ltnqghjtqe5d"
+path="res://.godot/imported/grid_depth.glsl-7dfdae23c913d7b30c54f478a1b52a75.res"
+
+[deps]
+
+source_file="res://assets/images/alpha/alpha/assets/shaders/grid_depth.glsl"
+dest_files=["res://.godot/imported/grid_depth.glsl-7dfdae23c913d7b30c54f478a1b52a75.res"]
+
+[params]
+
