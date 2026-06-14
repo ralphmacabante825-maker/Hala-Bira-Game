@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b4lqnjw767me8"
+path="res://.godot/imported/font.glsl-dd53b842f624406e0850b9558b0c0d83.res"
+
+[deps]
+
+source_file="res://assets/images/alpha/alpha/assets/shaders/font.glsl"
+dest_files=["res://.godot/imported/font.glsl-dd53b842f624406e0850b9558b0c0d83.res"]
+
+[params]
+

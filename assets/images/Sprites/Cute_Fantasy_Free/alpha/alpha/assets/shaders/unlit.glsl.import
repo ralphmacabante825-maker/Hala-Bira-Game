@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://5684nh0pd0rj"
+path="res://.godot/imported/unlit.glsl-0938b74850bb67d55c20e711d5ffb6f8.res"
+
+[deps]
+
+source_file="res://assets/images/Sprites/Cute_Fantasy_Free/alpha/alpha/assets/shaders/unlit.glsl"
+dest_files=["res://.godot/imported/unlit.glsl-0938b74850bb67d55c20e711d5ffb6f8.res"]
+
+[params]
+

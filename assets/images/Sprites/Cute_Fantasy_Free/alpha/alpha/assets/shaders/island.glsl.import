@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bdpbl3ixg5sgb"
+path="res://.godot/imported/island.glsl-81aabfcb08ed7fd1ac9f515c0a9c3ab5.res"
+
+[deps]
+
+source_file="res://assets/images/Sprites/Cute_Fantasy_Free/alpha/alpha/assets/shaders/island.glsl"
+dest_files=["res://.godot/imported/island.glsl-81aabfcb08ed7fd1ac9f515c0a9c3ab5.res"]
+
+[params]
+

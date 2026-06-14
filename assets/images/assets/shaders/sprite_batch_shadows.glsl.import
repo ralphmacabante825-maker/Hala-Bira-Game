@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://duqby6tm8os6y"
+path="res://.godot/imported/sprite_batch_shadows.glsl-37f5aa2ebf565c3a9cfd31acafcb5df6.res"
+
+[deps]
+
+source_file="res://assets/images/assets/shaders/sprite_batch_shadows.glsl"
+dest_files=["res://.godot/imported/sprite_batch_shadows.glsl-37f5aa2ebf565c3a9cfd31acafcb5df6.res"]
+
+[params]
+

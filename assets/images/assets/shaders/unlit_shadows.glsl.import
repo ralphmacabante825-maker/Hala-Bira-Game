@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bx8hfgk3aejoa"
+path="res://.godot/imported/unlit_shadows.glsl-cff4d6017c620e6738d5af87a6e708b3.res"
+
+[deps]
+
+source_file="res://assets/images/assets/shaders/unlit_shadows.glsl"
+dest_files=["res://.godot/imported/unlit_shadows.glsl-cff4d6017c620e6738d5af87a6e708b3.res"]
+
+[params]
+

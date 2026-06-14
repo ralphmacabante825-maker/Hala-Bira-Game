@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://du58b0ck5o0cb"
+path="res://.godot/imported/nine_slice_sprite.glsl-f2fb536c00f281a587f9bfc43e02b2dc.res"
+
+[deps]
+
+source_file="res://assets/images/Sprites/Cute_Fantasy_Free/alpha/alpha/assets/shaders/nine_slice_sprite.glsl"
+dest_files=["res://.godot/imported/nine_slice_sprite.glsl-f2fb536c00f281a587f9bfc43e02b2dc.res"]
+
+[params]
+

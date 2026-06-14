@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://1r1lw1w3b4ct"
+path="res://.godot/imported/house.glsl-6dc7ee69e2ee4cc56351f6dc96f38d85.res"
+
+[deps]
+
+source_file="res://assets/images/assets/shaders/house.glsl"
+dest_files=["res://.godot/imported/house.glsl-6dc7ee69e2ee4cc56351f6dc96f38d85.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://gdifilk4wsgq"
+path="res://.godot/imported/crt.glsl-b8c87db297a81747500c31753f5084a9.res"
+
+[deps]
+
+source_file="res://assets/images/Sprites/Cute_Fantasy_Free/alpha/alpha/assets/shaders/crt.glsl"
+dest_files=["res://.godot/imported/crt.glsl-b8c87db297a81747500c31753f5084a9.res"]
+
+[params]
+

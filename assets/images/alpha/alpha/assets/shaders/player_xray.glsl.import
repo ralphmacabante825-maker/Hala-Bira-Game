@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b7o8tkeygmll4"
+path="res://.godot/imported/player_xray.glsl-6b0b759bcf6601f4e25244785a27272e.res"
+
+[deps]
+
+source_file="res://assets/images/alpha/alpha/assets/shaders/player_xray.glsl"
+dest_files=["res://.godot/imported/player_xray.glsl-6b0b759bcf6601f4e25244785a27272e.res"]
+
+[params]
+
