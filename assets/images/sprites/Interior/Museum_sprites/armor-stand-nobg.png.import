@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cueo81qfc5jbf"
-path="res://.godot/imported/armor-stand-nobg.png-4b5ab45a2580bae4af7b1929c87c3694.ctex"
+path="res://.godot/imported/armor-stand-nobg.png-509955be4f0b90b74ab8903148741b84.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/Interior/Museum_sprites/armor-stand-nobg.png"
-dest_files=["res://.godot/imported/armor-stand-nobg.png-4b5ab45a2580bae4af7b1929c87c3694.ctex"]
+source_file="res://assets/images/Sprites/Interior/Museum_sprites/armor-stand-nobg.png"
+dest_files=["res://.godot/imported/armor-stand-nobg.png-509955be4f0b90b74ab8903148741b84.ctex"]
 
 [params]
 

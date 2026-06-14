@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dptwqj1jic8pk"
-path="res://.godot/imported/house_details.png-a2c4c2c93b228948983bbd1bfc6de465.ctex"
+path="res://.godot/imported/house_details.png-8d35bbb257b0ce53df72fafd0d88c5ac.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/main-characters-home-free-top-down-pixel-art-asset/Tiled_files/house_details.png"
-dest_files=["res://.godot/imported/house_details.png-a2c4c2c93b228948983bbd1bfc6de465.ctex"]
+source_file="res://assets/images/Sprites/main-characters-home-free-top-down-pixel-art-asset/Tiled_files/house_details.png"
+dest_files=["res://.godot/imported/house_details.png-8d35bbb257b0ce53df72fafd0d88c5ac.ctex"]
 
 [params]
 

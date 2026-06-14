@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdu723wm2pub"
-path="res://.godot/imported/floorswalls_LRK.png-bf2899cc17fd90fba6852bdce0fc8c8f.ctex"
+path="res://.godot/imported/floorswalls_LRK.png-54d777a728ef2058fa5504fcf8b4d6f3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/pixelinterior_LRK_v1.1/floorswalls_LRK.png"
-dest_files=["res://.godot/imported/floorswalls_LRK.png-bf2899cc17fd90fba6852bdce0fc8c8f.ctex"]
+source_file="res://assets/images/Sprites/pixelinterior_LRK_v1.1/floorswalls_LRK.png"
+dest_files=["res://.godot/imported/floorswalls_LRK.png-54d777a728ef2058fa5504fcf8b4d6f3.ctex"]
 
 [params]
 

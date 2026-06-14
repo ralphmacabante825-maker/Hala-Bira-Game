@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://nkwrwexu7l44"
-path="res://.godot/imported/Chicken Blonde  Green.png-5b340388e539ea4cfbb9987f8d05bdc3.ctex"
+path="res://.godot/imported/Chicken Blonde  Green.png-2d67131be3fdc54930f607d0097b4d0d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/Farm RPG FREE 16x16 - Tiny Asset Pack/Farm Animals/Chicken Blonde  Green.png"
-dest_files=["res://.godot/imported/Chicken Blonde  Green.png-5b340388e539ea4cfbb9987f8d05bdc3.ctex"]
+source_file="res://assets/images/Sprites/Farm RPG FREE 16x16 - Tiny Asset Pack/Farm Animals/Chicken Blonde  Green.png"
+dest_files=["res://.godot/imported/Chicken Blonde  Green.png-2d67131be3fdc54930f607d0097b4d0d.ctex"]
 
 [params]
 

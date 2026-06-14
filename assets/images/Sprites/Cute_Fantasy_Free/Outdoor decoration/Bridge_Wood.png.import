@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://pext0k8yhkf7"
-path="res://.godot/imported/Bridge_Wood.png-2a79f1e3ba511007bf2af62dea290b07.ctex"
+path="res://.godot/imported/Bridge_Wood.png-8fa59300ed2bcd32b657945c83ec2654.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/Cute_Fantasy_Free/Outdoor decoration/Bridge_Wood.png"
-dest_files=["res://.godot/imported/Bridge_Wood.png-2a79f1e3ba511007bf2af62dea290b07.ctex"]
+source_file="res://assets/images/Sprites/Cute_Fantasy_Free/Outdoor decoration/Bridge_Wood.png"
+dest_files=["res://.godot/imported/Bridge_Wood.png-8fa59300ed2bcd32b657945c83ec2654.ctex"]
 
 [params]
 

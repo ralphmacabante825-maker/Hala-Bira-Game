@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b62cidj05y1gx"
-path="res://.godot/imported/Treasure+.png-d9ebaa9b13259890b0223fe6602ed796.ctex"
+path="res://.godot/imported/Treasure+.png-d0a535ff786e9588f1ad0d43dfa93cff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/Interior/Museum_sprites/Treasure+/Treasure+.png"
-dest_files=["res://.godot/imported/Treasure+.png-d9ebaa9b13259890b0223fe6602ed796.ctex"]
+source_file="res://assets/images/Sprites/Interior/Museum_sprites/Treasure+/Treasure+.png"
+dest_files=["res://.godot/imported/Treasure+.png-d0a535ff786e9588f1ad0d43dfa93cff.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://betpsck7ixsh0"
-path="res://.godot/imported/Shine_Sheet.png-16add2c4e47e1dbe0137b6570bb23cfb.ctex"
+path="res://.godot/imported/Shine_Sheet.png-9beee277ae3870dcc4d9e9a6d427de56.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/Interior/Museum_sprites/Treasure+/Shine_Sheet.png"
-dest_files=["res://.godot/imported/Shine_Sheet.png-16add2c4e47e1dbe0137b6570bb23cfb.ctex"]
+source_file="res://assets/images/Sprites/Interior/Museum_sprites/Treasure+/Shine_Sheet.png"
+dest_files=["res://.godot/imported/Shine_Sheet.png-9beee277ae3870dcc4d9e9a6d427de56.ctex"]
 
 [params]
 

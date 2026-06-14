@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://byut1wj1dcil6"
-path="res://.godot/imported/Trees_animation.png-a5017f4967897319b1abf202d2bfbcc6.ctex"
+path="res://.godot/imported/Trees_animation.png-04800359b0188bc421ff8d4cf81ed2a2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/main-characters-home-free-top-down-pixel-art-asset/PNG/Trees_animation.png"
-dest_files=["res://.godot/imported/Trees_animation.png-a5017f4967897319b1abf202d2bfbcc6.ctex"]
+source_file="res://assets/images/Sprites/main-characters-home-free-top-down-pixel-art-asset/PNG/Trees_animation.png"
+dest_files=["res://.godot/imported/Trees_animation.png-04800359b0188bc421ff8d4cf81ed2a2.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3kpjgdyxqbd8"
-path="res://.godot/imported/Smoke_animation.png-dd49aebb4b7db8fc34f229f94831c9f2.ctex"
+path="res://.godot/imported/Smoke_animation.png-c9224c0c35a91f09c232b30f4d6104b9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/main-characters-home-free-top-down-pixel-art-asset/Tiled_files/Smoke_animation.png"
-dest_files=["res://.godot/imported/Smoke_animation.png-dd49aebb4b7db8fc34f229f94831c9f2.ctex"]
+source_file="res://assets/images/Sprites/main-characters-home-free-top-down-pixel-art-asset/Tiled_files/Smoke_animation.png"
+dest_files=["res://.godot/imported/Smoke_animation.png-c9224c0c35a91f09c232b30f4d6104b9.ctex"]
 
 [params]
 

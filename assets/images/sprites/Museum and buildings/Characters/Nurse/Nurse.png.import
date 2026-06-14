@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dp4uflmorvmk0"
-path="res://.godot/imported/Nurse.png-b7ae87e08311333a9a4f1ce95a07f01b.ctex"
+path="res://.godot/imported/Nurse.png-14b68dd59e4e0fd6d055d0469d6caabf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/Museum and buildings/Characters/Nurse/Nurse.png"
-dest_files=["res://.godot/imported/Nurse.png-b7ae87e08311333a9a4f1ce95a07f01b.ctex"]
+source_file="res://assets/images/Sprites/Museum and buildings/Characters/Nurse/Nurse.png"
+dest_files=["res://.godot/imported/Nurse.png-14b68dd59e4e0fd6d055d0469d6caabf.ctex"]
 
 [params]
 

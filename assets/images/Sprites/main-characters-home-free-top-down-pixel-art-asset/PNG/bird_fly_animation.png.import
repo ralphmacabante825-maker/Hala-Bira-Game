@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bk3s0t30hb46v"
-path="res://.godot/imported/bird_fly_animation.png-e9f38455eb28d1315faa2e96b5e47edf.ctex"
+path="res://.godot/imported/bird_fly_animation.png-a90271752c05a435568ebd56d3105baa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/main-characters-home-free-top-down-pixel-art-asset/PNG/bird_fly_animation.png"
-dest_files=["res://.godot/imported/bird_fly_animation.png-e9f38455eb28d1315faa2e96b5e47edf.ctex"]
+source_file="res://assets/images/Sprites/main-characters-home-free-top-down-pixel-art-asset/PNG/bird_fly_animation.png"
+dest_files=["res://.godot/imported/bird_fly_animation.png-a90271752c05a435568ebd56d3105baa.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqbd6576vgowc"
-path="res://.godot/imported/Fence's copiar.png-4884972538754c43de3ada5594c4fc3b.ctex"
+path="res://.godot/imported/Fence's copiar.png-8c10f2dc3e1f01c6f4ad8dc0f9857f95.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/Farm RPG FREE 16x16 - Tiny Asset Pack/Objects/Fence's copiar.png"
-dest_files=["res://.godot/imported/Fence's copiar.png-4884972538754c43de3ada5594c4fc3b.ctex"]
+source_file="res://assets/images/Sprites/Farm RPG FREE 16x16 - Tiny Asset Pack/Objects/Fence's copiar.png"
+dest_files=["res://.godot/imported/Fence's copiar.png-8c10f2dc3e1f01c6f4ad8dc0f9857f95.ctex"]
 
 [params]
 

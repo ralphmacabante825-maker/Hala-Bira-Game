@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2kpoer58pvwf"
-path="res://.godot/imported/Adam_phone_16x16.png-7ab2ac21dc67c45292c575a47dc9886d.ctex"
+path="res://.godot/imported/Adam_phone_16x16.png-ada554810ee13de5bae38feb87ce1087.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/sprites/Interior/Characters_free/Adam_phone_16x16.png"
-dest_files=["res://.godot/imported/Adam_phone_16x16.png-7ab2ac21dc67c45292c575a47dc9886d.ctex"]
+source_file="res://assets/images/Sprites/Interior/Characters_free/Adam_phone_16x16.png"
+dest_files=["res://.godot/imported/Adam_phone_16x16.png-ada554810ee13de5bae38feb87ce1087.ctex"]
 
 [params]
 
