@@ -7,7 +7,7 @@
 [ext_resource type="Texture2D" uid="uid://c1en2jahe1f0k" path="res://assets/images/Sprites/Interior/Museum_sprites/fence_post.png" id="6_ia5r6"]
 [ext_resource type="Texture2D" uid="uid://c1e6dwuycem5f" path="res://assets/images/Sprites/Interior/Museum_sprites/statue_pedestal_big.png" id="8_eqlmn"]
 [ext_resource type="Texture2D" uid="uid://1krwfi2k5g51" path="res://assets/images/Sprites/Interior/Museum_sprites/statue_pedestal_small.png" id="9_20gh1"]
-[ext_resource type="PackedScene" uid="uid://dc4gld73gai25" path="res://playerScene.tscn" id="11_4qlf7"]
+[ext_resource type="PackedScene" uid="uid://cktra10ltyffx" path="res://Scenes/player.tscn" id="11_hy0ww"]
 [ext_resource type="Script" uid="uid://bhs6i6dn83puc" path="res://Scripts/Glass Case.gd" id="12_20gh1"]
 [ext_resource type="Texture2D" uid="uid://mtmnwljyycfw" path="res://assets/images/Sprites/Interior/Museum_sprites/writings_artif&rope.png" id="12_vib3h"]
 [ext_resource type="Texture2D" uid="uid://db63dj28whqik" path="res://assets/images/Sprites/Interior/Museum_sprites/fence_rope_left_half.png" id="13_a02an"]
@@ -4020,8 +4020,8 @@ tile_set = SubResource("TileSet_k7yn6")
 tile_map_data = PackedByteArray("AAAgABYAAgAIABYAAAAgABcAAgAIABcAAAAhABYAAgAJABYAAAAhABcAAgAJABcAAAAbABsABQAMAAcAAAAXABsABQAPAAUAAAAZABsABQAOAAUAAAAXACAAEAABAAAAAAAXAB8AEAAAAAAAAAAmAB8AEAABAAEAAAAmACAAEAACAAEAAAAoAB8AEAACAAAAAAAoACAAEAAAAAEAAAAqACAAEAAAAAEAAAAqAB8AEAACAAAAAAAdABgAEAABAAIAAAAeABgAEAABAAIAAAAfABgAEAABAAIAAAAgABgAEAABAAIAAAAhABgAEAABAAIAAAAiABgAEAABAAIAAAAjABgAEAABAAIAAAAkABgAEAABAAIAAAAaABgAEAABAAIAAAAbABgAEAABAAIAAAAcABgAEAABAAIAAAAlABgAEAABAAIAAAAmABgAEAABAAIAAAAnABgAEwAAAAAAAAAYACAAEAABAAAAAAAYAB8AEAAAAAAAAAAbACAAEAABAAAAAAAbAB8AEAAAAAAAAAAaABYAAgAAAEgAAAAaABcAAgAAAEkAAAAcABYAAgACAEYAAAAcABcAAgACAEcAAAAkABYAAgAAAEwAAAAkABcAAgAAAE0AAAAdABYAAgAKABUAAAAdABcAAgAKABYAAAAeABYAAgALABUAAAAeABcAAgALABYAAAAqAB4AAgAAAEUAAAAqAB0AAgAAAEQAAAAoAB4AAgAAAEMAAAAmABwAAgAAAEMAAAAmABsAAgAAAEIAAAAoAB0AAgAAAEIAAAAmAB4AAgABAEMAAAAmAB0AAgABAEIAAAAoABwAAgACAEMAAAAqABwAAgACAEMAAAAoABsAAgACAEIAAAAqABsAAgACAEIAAAArABsAAgAAADEAAAArABwAAgAAADIAAAAXAB0ABQAPAA4AAAAZAB0ABQANAAQAAAAbAB0ABQADAAQAAAAZABgAFAAAAAAAAAAgACQAAgALABMAAAAgACUAAgALABQAAAAhACQAAgAMABMAAAAhACUAAgAMABQAAAAWABcAAgAKACwAAAA=")
 tile_set = SubResource("TileSet_6biwd")
 
-[node name="Player" parent="." unique_id=1630204055 instance=ExtResource("11_4qlf7")]
-position = Vector2(528, 595)
+[node name="Player" parent="." unique_id=2098849016 instance=ExtResource("11_hy0ww")]
+position = Vector2(528, 585)
 scale = Vector2(0.5, 0.5)
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=1521613396]
