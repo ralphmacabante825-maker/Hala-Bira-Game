@@ -2,32 +2,17 @@
 
 [ext_resource type="Texture2D" uid="uid://bknllnbopc7k4" path="res://assets/images/Sprites/Interior/Interiors_free/16x16/Room_Builder_free_16x16.png" id="1_jkg5h"]
 [ext_resource type="TileSet" uid="uid://ccyid6pjg3tdn" path="res://assets/new_tile_set.tres" id="1_ybt8h"]
-<<<<<<< HEAD
-[ext_resource type="Texture2D" uid="uid://k57203xjgrdn" path="res://assets/images/sprites/Interior/Interiors_free/16x16/Interiors_free_16x16.png" id="2_b7ohi"]
-[ext_resource type="Texture2D" uid="uid://b62cidj05y1gx" path="res://assets/images/sprites/Interior/Museum_sprites/Treasure+/Treasure+.png" id="4_srx20"]
-[ext_resource type="Texture2D" uid="uid://c1en2jahe1f0k" path="res://assets/images/sprites/Interior/Museum_sprites/fence_post.png" id="6_ia5r6"]
-[ext_resource type="Texture2D" uid="uid://5wsgbpww65aa" path="res://assets/images/sprites/Interior/Museum_sprites/armor-stand-16x32.png" id="7_4qlf7"]
-[ext_resource type="Texture2D" uid="uid://c1e6dwuycem5f" path="res://assets/images/sprites/Interior/Museum_sprites/statue_pedestal_big.png" id="8_eqlmn"]
-[ext_resource type="Texture2D" uid="uid://duihn58s8qsya" path="res://assets/images/sprites/Interior/Interiors_free/16x16/armor-stand-32x48.png" id="8_ybt8h"]
-[ext_resource type="Texture2D" uid="uid://1krwfi2k5g51" path="res://assets/images/sprites/Interior/Museum_sprites/statue_pedestal_small.png" id="9_20gh1"]
-[ext_resource type="Texture2D" uid="uid://du5rnw2k10g1w" path="res://assets/images/sprites/Interior/Museum_sprites/armor-stand-2x3.png" id="12_ug17j"]
-[ext_resource type="Texture2D" uid="uid://mtmnwljyycfw" path="res://assets/images/sprites/Interior/Museum_sprites/writings_artif&rope.png" id="12_vib3h"]
-[ext_resource type="Texture2D" uid="uid://cueo81qfc5jbf" path="res://assets/images/sprites/Interior/Museum_sprites/armor-stand-nobg.png" id="13_7ga6o"]
-[ext_resource type="Texture2D" uid="uid://db63dj28whqik" path="res://assets/images/sprites/Interior/Museum_sprites/fence_rope_left_half.png" id="13_a02an"]
-[ext_resource type="Texture2D" uid="uid://be545tu6yipu6" path="res://assets/images/sprites/Interior/Museum_sprites/fence_rope_right_half.png" id="14_6biwd"]
-=======
 [ext_resource type="Texture2D" uid="uid://k57203xjgrdn" path="res://assets/images/Sprites/Interior/Interiors_free/16x16/Interiors_free_16x16.png" id="2_b7ohi"]
 [ext_resource type="Texture2D" uid="uid://b62cidj05y1gx" path="res://assets/images/Sprites/Interior/Museum_sprites/Treasure+/Treasure+.png" id="4_srx20"]
 [ext_resource type="Texture2D" uid="uid://c1en2jahe1f0k" path="res://assets/images/Sprites/Interior/Museum_sprites/fence_post.png" id="6_ia5r6"]
 [ext_resource type="Texture2D" uid="uid://c1e6dwuycem5f" path="res://assets/images/Sprites/Interior/Museum_sprites/statue_pedestal_big.png" id="8_eqlmn"]
 [ext_resource type="Texture2D" uid="uid://1krwfi2k5g51" path="res://assets/images/Sprites/Interior/Museum_sprites/statue_pedestal_small.png" id="9_20gh1"]
-[ext_resource type="PackedScene" uid="uid://dc4gld73gai25" path="res://playerScene.tscn" id="11_4qlf7"]
+[ext_resource type="PackedScene" uid="uid://cktra10ltyffx" path="res://Scenes/player.tscn" id="11_hy0ww"]
 [ext_resource type="Script" uid="uid://bhs6i6dn83puc" path="res://Scripts/Glass Case.gd" id="12_20gh1"]
 [ext_resource type="Texture2D" uid="uid://mtmnwljyycfw" path="res://assets/images/Sprites/Interior/Museum_sprites/writings_artif&rope.png" id="12_vib3h"]
 [ext_resource type="Texture2D" uid="uid://db63dj28whqik" path="res://assets/images/Sprites/Interior/Museum_sprites/fence_rope_left_half.png" id="13_a02an"]
 [ext_resource type="Resource" uid="uid://oywokgirbmb8" path="res://resources/artifact.dialogue" id="13_hy0ww"]
 [ext_resource type="Texture2D" uid="uid://be545tu6yipu6" path="res://assets/images/Sprites/Interior/Museum_sprites/fence_rope_right_half.png" id="14_6biwd"]
->>>>>>> 0cc05bd7d709fa7f05d08205b81ad0f4adf9efc3
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_fwsb1"]
 texture = ExtResource("2_b7ohi")
@@ -2604,16 +2589,6 @@ sources/18 = SubResource("TileSetAtlasSource_4k18c")
 sources/19 = SubResource("TileSetAtlasSource_pp6s3")
 sources/20 = SubResource("TileSetAtlasSource_j222v")
 
-[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_20gh1"]
-texture = ExtResource("7_4qlf7")
-0:0/size_in_atlas = Vector2i(1, 2)
-0:0/0 = 0
-
-[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_ia5r6"]
-texture = ExtResource("8_ybt8h")
-0:0/0 = 0
-1:0/0 = 0
-
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_eqlmn"]
 texture = ExtResource("9_20gh1")
 0:0/0 = 0
@@ -3756,20 +3731,6 @@ texture = ExtResource("2_b7ohi")
 texture = ExtResource("14_6biwd")
 0:0/0 = 0
 
-[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_6biwd"]
-texture = ExtResource("12_ug17j")
-0:0/0 = 0
-1:0/0 = 0
-0:1/0 = 0
-1:1/0 = 0
-
-[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_2cu1o"]
-texture = ExtResource("13_7ga6o")
-0:0/0 = 0
-1:0/0 = 0
-0:1/0 = 0
-1:1/0 = 0
-
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_a02an"]
 texture = ExtResource("4_srx20")
 0:0/0 = 0
@@ -4037,10 +3998,6 @@ sources/14 = SubResource("TileSetAtlasSource_eqlmn")
 sources/16 = SubResource("TileSetAtlasSource_naqgm")
 sources/19 = SubResource("TileSetAtlasSource_4nkoj")
 sources/20 = SubResource("TileSetAtlasSource_isovs")
-sources/0 = SubResource("TileSetAtlasSource_20gh1")
-sources/1 = SubResource("TileSetAtlasSource_ia5r6")
-sources/3 = SubResource("TileSetAtlasSource_6biwd")
-sources/4 = SubResource("TileSetAtlasSource_2cu1o")
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_hy0ww"]
 size = Vector2(27, 51.398438)
@@ -4063,13 +4020,8 @@ tile_set = SubResource("TileSet_k7yn6")
 tile_map_data = PackedByteArray("AAAgABYAAgAIABYAAAAgABcAAgAIABcAAAAhABYAAgAJABYAAAAhABcAAgAJABcAAAAbABsABQAMAAcAAAAXABsABQAPAAUAAAAZABsABQAOAAUAAAAXACAAEAABAAAAAAAXAB8AEAAAAAAAAAAmAB8AEAABAAEAAAAmACAAEAACAAEAAAAoAB8AEAACAAAAAAAoACAAEAAAAAEAAAAqACAAEAAAAAEAAAAqAB8AEAACAAAAAAAdABgAEAABAAIAAAAeABgAEAABAAIAAAAfABgAEAABAAIAAAAgABgAEAABAAIAAAAhABgAEAABAAIAAAAiABgAEAABAAIAAAAjABgAEAABAAIAAAAkABgAEAABAAIAAAAaABgAEAABAAIAAAAbABgAEAABAAIAAAAcABgAEAABAAIAAAAlABgAEAABAAIAAAAmABgAEAABAAIAAAAnABgAEwAAAAAAAAAYACAAEAABAAAAAAAYAB8AEAAAAAAAAAAbACAAEAABAAAAAAAbAB8AEAAAAAAAAAAaABYAAgAAAEgAAAAaABcAAgAAAEkAAAAcABYAAgACAEYAAAAcABcAAgACAEcAAAAkABYAAgAAAEwAAAAkABcAAgAAAE0AAAAdABYAAgAKABUAAAAdABcAAgAKABYAAAAeABYAAgALABUAAAAeABcAAgALABYAAAAqAB4AAgAAAEUAAAAqAB0AAgAAAEQAAAAoAB4AAgAAAEMAAAAmABwAAgAAAEMAAAAmABsAAgAAAEIAAAAoAB0AAgAAAEIAAAAmAB4AAgABAEMAAAAmAB0AAgABAEIAAAAoABwAAgACAEMAAAAqABwAAgACAEMAAAAoABsAAgACAEIAAAAqABsAAgACAEIAAAArABsAAgAAADEAAAArABwAAgAAADIAAAAXAB0ABQAPAA4AAAAZAB0ABQANAAQAAAAbAB0ABQADAAQAAAAZABgAFAAAAAAAAAAgACQAAgALABMAAAAgACUAAgALABQAAAAhACQAAgAMABMAAAAhACUAAgAMABQAAAAWABcAAgAKACwAAAA=")
 tile_set = SubResource("TileSet_6biwd")
 
-<<<<<<< HEAD
-[node name="ArmorStand16x32" type="Sprite2D" parent="." unique_id=1616861669]
-position = Vector2(527, 459)
-texture = ExtResource("7_4qlf7")
-=======
-[node name="Player" parent="." unique_id=1630204055 instance=ExtResource("11_4qlf7")]
-position = Vector2(528, 595)
+[node name="Player" parent="." unique_id=2098849016 instance=ExtResource("11_hy0ww")]
+position = Vector2(528, 585)
 scale = Vector2(0.5, 0.5)
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=1521613396]
@@ -4088,4 +4040,3 @@ shape = SubResource("RectangleShape2D_hy0ww")
 
 [connection signal="body_entered" from="Area2D" to="Area2D" method="_on_body_entered"]
 [connection signal="body_exited" from="Area2D" to="Area2D" method="_on_body_exited"]
->>>>>>> 0cc05bd7d709fa7f05d08205b81ad0f4adf9efc3
