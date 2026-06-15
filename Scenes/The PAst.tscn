@@ -26,6 +26,8 @@
 [ext_resource type="Texture2D" uid="uid://brxibf3p4das2" path="res://assets/images/Sprites/vilage/2 Objects/3 Decor/4.png" id="25_gt5lm"]
 [ext_resource type="PackedScene" uid="uid://cktra10ltyffx" path="res://Scenes/player.tscn" id="26_cunxl"]
 [ext_resource type="Texture2D" uid="uid://cfnt2jcy8whfe" path="res://assets/images/Sprites/vilage/2 Objects/3 Decor/8.png" id="26_moeum"]
+[ext_resource type="PackedScene" uid="uid://8eybfmv3rkgs" path="res://Scenes/ingame_ui.tscn" id="27_go6qt"]
+[ext_resource type="Script" uid="uid://dgtxfm60h4qj6" path="res://Scripts/canvas_layer.gd" id="27_vidjl"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_lr2mi"]
 texture = ExtResource("1_vdldh")
@@ -12767,6 +12769,7 @@ scale = Vector2(1.4285713, 1.4736863)
 texture = ExtResource("23_vidjl")
 
 [node name="StaticBody2D" type="StaticBody2D" parent="Base/Grass Layer/Grass LAyer 2/Bushes and stuff" unique_id=1955481653]
+visible = false
 
 [node name="main_fence" type="CollisionPolygon2D" parent="Base/Grass Layer/Grass LAyer 2/Bushes and stuff/StaticBody2D" unique_id=2141826896]
 polygon = PackedVector2Array(185.00003, 496.00006, 191.00003, 496.00006, 191.00003, 449.00006, 96.00001, 449.00006, 96.00001, 249.00003, 281.00006, 249.00003, 281.00006, 280.00003, 289.00006, 280.00003, 290.00006, 291.00006, 304.00006, 292.00006, 304.00006, 279.00003, 310.00006, 278.00003, 311.00006, 256.00003, 351.00006, 256.00003, 352.00006, 288.00006, 334.00006, 288.00006, 327.00006, 293.00006, 329.00006, 310.00006, 352.00006, 310.00006, 353.00006, 448.00006, 258.00006, 449.00006, 257.00006, 496.00006, 264.00006, 496.00006, 264.00006, 457.00006, 360.00006, 457.00006, 360.00006, 246.00003, 89.00001, 246.00003, 89.00001, 457.00006, 185.00003, 457.00006)
@@ -12795,6 +12798,7 @@ tile_map_data = PackedByteArray("AAA4AGsAAQACAAUAAAA4AGwAAQACAAYAAAA4AG0AAQACAAc
 tile_set = SubResource("TileSet_5i25h")
 
 [node name="StaticBody2D" type="StaticBody2D" parent="Base/Grass Layer/Grass LAyer 2/Houses/Npc Houses" unique_id=726608861]
+visible = false
 
 [node name="npc house1" type="CollisionPolygon2D" parent="Base/Grass Layer/Grass LAyer 2/Houses/Npc Houses/StaticBody2D" unique_id=872528163]
 polygon = PackedVector2Array(-313.00012, 462.00015, -283.00012, 462.00015, -283.00012, 434.00012, -261.0001, 434.00012, -261.0001, 463.00015, -232.00009, 463.00015, -231.00009, 434.00012, -225.00009, 432.00012, -225.00009, 415.00012, -202.00009, 415.00012, -203.00009, 386.00012, -180.00009, 386.00012, -181.00009, 414.00012, -167.00006, 414.00012, -168.00006, 385.00012, -161.00006, 383.00012, -161.00006, 336.0001, -320.00012, 337.0001, -320.00012, 432.00012, -311.00012, 432.00012)
@@ -12806,6 +12810,7 @@ polygon = PackedVector2Array(152.00005, 910.0003, 181.00005, 911.0003, 181.00005
 polygon = PackedVector2Array(558.0002, 1145.0004, 610.00024, 1145.0004, 609.00024, 1110.0004, 635.00024, 1110.0004, 636.00024, 1144.0004, 653.00024, 1143.0004, 651.00024, 1030.0004, 552.0002, 1033.0004)
 
 [node name="StaticBody2D" type="StaticBody2D" parent="Base/Grass Layer/Grass LAyer 2/Houses" unique_id=1557302515]
+visible = false
 
 [node name="main house" type="CollisionPolygon2D" parent="Base/Grass Layer/Grass LAyer 2/Houses/StaticBody2D" unique_id=1373808467]
 polygon = PackedVector2Array(162.00005, 398.00012, 285.0001, 398.00012, 285.0001, 372.00012, 288.0001, 369.00012, 288.0001, 321.0001, 248.00008, 306.0001, 210.00006, 271.00006, 159.00005, 320.0001, 160.00005, 371.00012, 162.00005, 373.00012)
@@ -12826,6 +12831,7 @@ tile_map_data = PackedByteArray("AAASABcAAAABABcAAAASABgAAAABABgAAAASABkAAAABABk
 tile_set = SubResource("TileSet_3phmg")
 
 [node name="StaticBody2D" type="StaticBody2D" parent="trees" unique_id=1326604078]
+visible = false
 
 [node name="main house tree 1" type="CollisionPolygon2D" parent="trees/StaticBody2D" unique_id=1657182396]
 polygon = PackedVector2Array(120, 428.00006, 112.99999, 428.00006, 108.99999, 434.00006, 111.99999, 442.00006, 119, 445.00006, 138.00002, 444.00006, 144.00002, 435.00006, 142.00002, 429.00006)
@@ -12835,3 +12841,9 @@ polygon = PackedVector2Array(313.00012, 427.00006, 305.00012, 427.00006, 302.000
 
 [node name="npc house tree 1" type="CollisionPolygon2D" parent="trees/StaticBody2D" unique_id=1551430344]
 polygon = PackedVector2Array(-173.00021, 475.0001, -180.00021, 478.0001, -180.00021, 486.0001, -168.00021, 494.0001, -151.00018, 495.0001, -138.00018, 488.0001, -139.00018, 480.0001, -148.00018, 472.0001)
+
+[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=1572274564]
+script = ExtResource("27_vidjl")
+
+[node name="IngameUi" parent="CanvasLayer" unique_id=178526815 instance=ExtResource("27_go6qt")]
+visible = false
