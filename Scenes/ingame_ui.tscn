@@ -1,0 +1,191 @@
+[gd_scene format=3 uid="uid://8eybfmv3rkgs"]
+
+[ext_resource type="Script" uid="uid://c54ffy44ptd14" path="res://Scripts/ingame_ui.gd" id="1_lqtmf"]
+[ext_resource type="Texture2D" uid="uid://bq84ggbjh0b28" path="res://assets/images/Sprout Lands - UI Pack - Basic pack/Sprite sheets/Sprite sheet for Basic Pack.png" id="1_tcpi4"]
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_tcpi4"]
+load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-f083860a2d679095f44ec18efadba6c7.ctex"
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_srhhh"]
+texture = SubResource("CompressedTexture2D_tcpi4")
+region_rect = Rect2(837, 68, 22, 24)
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_kvti7"]
+load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-f083860a2d679095f44ec18efadba6c7.ctex"
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_mn6ph"]
+texture = SubResource("CompressedTexture2D_kvti7")
+region_rect = Rect2(869, 70, 22, 22)
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_srhhh"]
+load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-f083860a2d679095f44ec18efadba6c7.ctex"
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_hve42"]
+texture = SubResource("CompressedTexture2D_srhhh")
+region_rect = Rect2(869, 70, 22, 22)
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_wmyah"]
+load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-f083860a2d679095f44ec18efadba6c7.ctex"
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_wubsm"]
+texture = SubResource("CompressedTexture2D_wmyah")
+region_rect = Rect2(773, 68, 22, 24)
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_dv6vy"]
+load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-f083860a2d679095f44ec18efadba6c7.ctex"
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_tlkgg"]
+texture = SubResource("CompressedTexture2D_dv6vy")
+region_rect = Rect2(805, 70, 22, 22)
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_lqtmf"]
+load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-f083860a2d679095f44ec18efadba6c7.ctex"
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_wmyah"]
+texture = SubResource("CompressedTexture2D_lqtmf")
+region_rect = Rect2(805, 70, 22, 22)
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_pc47y"]
+load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-f083860a2d679095f44ec18efadba6c7.ctex"
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_bbwnt"]
+texture = SubResource("CompressedTexture2D_pc47y")
+region_rect = Rect2(645, 68, 22, 24)
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_w5cnb"]
+load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-f083860a2d679095f44ec18efadba6c7.ctex"
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_g5rqp"]
+texture = SubResource("CompressedTexture2D_w5cnb")
+region_rect = Rect2(677, 70, 22, 22)
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_kojnr"]
+texture = SubResource("CompressedTexture2D_w5cnb")
+region_rect = Rect2(677, 70, 22, 22)
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_37ytx"]
+load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-f083860a2d679095f44ec18efadba6c7.ctex"
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_lqtmf"]
+texture = SubResource("CompressedTexture2D_37ytx")
+region_rect = Rect2(772, 163, 22, 24)
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_sbmfl"]
+load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-f083860a2d679095f44ec18efadba6c7.ctex"
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_kvti7"]
+texture = SubResource("CompressedTexture2D_sbmfl")
+region_rect = Rect2(804, 165, 22, 22)
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_n2pu0"]
+load_path = "res://.godot/imported/Sprite sheet for Basic Pack.png-f083860a2d679095f44ec18efadba6c7.ctex"
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_15kbk"]
+texture = SubResource("CompressedTexture2D_n2pu0")
+region_rect = Rect2(804, 165, 22, 22)
+
+[node name="IngameUi" type="Control" unique_id=178526815]
+process_mode = 2
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_lqtmf")
+
+[node name="PopUpMenu" type="MarginContainer" parent="." unique_id=1243273627]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PopUpMenu" unique_id=786540996]
+layout_mode = 2
+size_flags_vertical = 8
+theme_override_constants/separation = 40
+
+[node name="BaseMenuSceen" type="MarginContainer" parent="PopUpMenu/VBoxContainer" unique_id=409353629]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+
+[node name="NinePatchRect" type="NinePatchRect" parent="PopUpMenu/VBoxContainer/BaseMenuSceen" unique_id=1630093517]
+custom_minimum_size = Vector2(430, 160)
+layout_mode = 2
+texture = ExtResource("1_tcpi4")
+region_rect = Rect2(741, 38, 22, 22)
+patch_margin_left = 4
+patch_margin_top = 4
+patch_margin_right = 4
+patch_margin_bottom = 4
+
+[node name="MarginContainer" type="MarginContainer" parent="PopUpMenu/VBoxContainer/BaseMenuSceen/NinePatchRect" unique_id=729449662]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/margin_left = 30
+theme_override_constants/margin_top = 15
+theme_override_constants/margin_right = 30
+theme_override_constants/margin_bottom = 15
+
+[node name="buttonContainer" type="VBoxContainer" parent="PopUpMenu/VBoxContainer/BaseMenuSceen/NinePatchRect/MarginContainer" unique_id=544523041]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme_override_constants/separation = 10
+
+[node name="TopButtonContainer" type="HBoxContainer" parent="PopUpMenu/VBoxContainer/BaseMenuSceen/NinePatchRect/MarginContainer/buttonContainer" unique_id=1204737421]
+layout_mode = 2
+size_flags_horizontal = 4
+theme_override_constants/separation = 10
+
+[node name="helpButton" type="Button" parent="PopUpMenu/VBoxContainer/BaseMenuSceen/NinePatchRect/MarginContainer/buttonContainer/TopButtonContainer" unique_id=1007583113]
+custom_minimum_size = Vector2(60, 60)
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme_override_styles/normal = SubResource("StyleBoxTexture_srhhh")
+theme_override_styles/pressed = SubResource("StyleBoxTexture_mn6ph")
+theme_override_styles/hover = SubResource("StyleBoxTexture_hve42")
+
+[node name="HomeScreen" type="Button" parent="PopUpMenu/VBoxContainer/BaseMenuSceen/NinePatchRect/MarginContainer/buttonContainer/TopButtonContainer" unique_id=1040195846]
+custom_minimum_size = Vector2(60, 60)
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme_override_styles/normal = SubResource("StyleBoxTexture_wubsm")
+theme_override_styles/pressed = SubResource("StyleBoxTexture_tlkgg")
+theme_override_styles/hover = SubResource("StyleBoxTexture_wmyah")
+
+[node name="BottomButtonContainer" type="HBoxContainer" parent="PopUpMenu/VBoxContainer/BaseMenuSceen/NinePatchRect/MarginContainer/buttonContainer/TopButtonContainer" unique_id=1219173684]
+layout_mode = 2
+theme_override_constants/separation = 10
+
+[node name="SettingsButton" type="Button" parent="PopUpMenu/VBoxContainer/BaseMenuSceen/NinePatchRect/MarginContainer/buttonContainer/TopButtonContainer/BottomButtonContainer" unique_id=223378940]
+custom_minimum_size = Vector2(60, 60)
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme_override_styles/normal = SubResource("StyleBoxTexture_bbwnt")
+theme_override_styles/pressed = SubResource("StyleBoxTexture_g5rqp")
+theme_override_styles/hover = SubResource("StyleBoxTexture_kojnr")
+
+[node name="ExitButton" type="Button" parent="PopUpMenu/VBoxContainer/BaseMenuSceen/NinePatchRect/MarginContainer/buttonContainer/TopButtonContainer/BottomButtonContainer" unique_id=1561197646]
+custom_minimum_size = Vector2(60, 60)
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme_override_styles/normal = SubResource("StyleBoxTexture_lqtmf")
+theme_override_styles/pressed = SubResource("StyleBoxTexture_kvti7")
+theme_override_styles/hover = SubResource("StyleBoxTexture_15kbk")
+
+[node name="separator" type="Control" parent="PopUpMenu/VBoxContainer" unique_id=1683254250]
+layout_mode = 2
+
+[connection signal="pressed" from="PopUpMenu/VBoxContainer/BaseMenuSceen/NinePatchRect/MarginContainer/buttonContainer/TopButtonContainer/helpButton" to="." method="_on_help_button_pressed"]
